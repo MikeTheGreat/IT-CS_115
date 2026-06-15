@@ -1,0 +1,365 @@
+["syllabus/syllabus.md"]
+canvas_id = 40592800
+canvas_type = "page"
+last_synced = "2026-06-07T02:23:45.150616+00:00"
+canvas_url = "syllabus"
+
+["pages/syllabus.md"]
+canvas_id = 40592801
+canvas_type = "page"
+last_synced = "2026-06-08T02:24:56.614825+00:00"
+canvas_url = "syllabus-2"
+
+["assets/syllabus/IT-CS 115 - Panitz - Summer 2026 Syllabus.docx"]
+canvas_id = 311521648
+canvas_type = "file"
+last_synced = "2026-06-08T02:32:26.587583+00:00"
+canvas_url = "https://cascadia.instructure.com/files/311521648/download?download_frd=1&verifier=9NP2CxwjrithZZTVcibCrDCOVShlEvb1kx4MxLAN"
+
+["pages/DELETEME_1.md"]
+canvas_id = 40592892
+canvas_type = "page"
+last_synced = "2026-06-09T00:43:48.345010+00:00"
+canvas_url = "deleteme-1"
+
+["course_settings/syllabus.md"]
+canvas_id = 2735320
+canvas_type = "syllabus"
+last_synced = "2026-06-15T06:03:30.783423+00:00"
+
+["pages/LandingPage.md"]
+canvas_id = 40658992
+canvas_type = "page"
+last_synced = "2026-06-13T22:31:01.548161+00:00"
+canvas_url = "landingpage"
+
+["course_settings.toml"]
+canvas_id = 0
+canvas_type = "course_settings"
+last_synced = "2026-06-15T06:03:30.155559+00:00"
+
+["course_settings/module_order.toml"]
+canvas_id = 0
+canvas_type = "module_order"
+last_synced = "2026-06-15T06:04:06.799625+00:00"
+
+["modules/getting-started-in-it-cs-115.md"]
+canvas_id = 11354608
+canvas_type = "module"
+last_synced = "2026-06-15T06:04:06.793213+00:00"
+
+["modules/getting-started-in-it-cs-115.md".canvas_item_ids]
+"pages/how-to-estimate-your-overall-grade.md" = 105436689
+"pages/zoom-links.md" = 105436690
+"pages/how-to-set-up-your-canvas-notifications.md" = 105436691
+"pages/how-to-find-due-dates-using-canvas-calendar.md" = 105436692
+"pages/how-to-make-sure-that-you-submitted-the-correct-file-s-for-your-homework.md" = 105436694
+"pages/how-to-use-ai-in-this-course.md" = 105436695
+"pages/how-to-install-the-required-software-java-and-the-jgrasp-editor.md" = 105436697
+"pages/course-orientation-overview-of-how-this-class-is-run-what-you-need-to-do-etc.md" = 105436698
+
+["pages/course-orientation-overview-of-how-this-class-is-run-what-you-need-to-do-etc.md"]
+canvas_id = 40660437
+canvas_type = "page"
+last_synced = "2026-06-14T07:54:25.308292+00:00"
+canvas_url = "course-orientation-overview-of-how-this-class-is-run-what-you-need-to-do-etc"
+
+["pages/how-to-use-ai-in-this-course.md"]
+canvas_id = 40660438
+canvas_type = "page"
+last_synced = "2026-06-15T02:21:12.770144+00:00"
+canvas_url = "how-to-use-ai-in-this-course"
+
+["pages/link-to-join-the-discord-server.md"]
+canvas_id = 40660439
+canvas_type = "page"
+last_synced = "2026-06-14T07:54:35.264760+00:00"
+canvas_url = "link-to-join-the-discord-server"
+
+["pages/zoom-links.md"]
+canvas_id = 40660440
+canvas_type = "page"
+last_synced = "2026-06-15T02:21:13.999394+00:00"
+canvas_url = "zoom-links"
+
+["assets/Images/How to estimate your own grade/Canvas_ASingleGrade.png"]
+canvas_id = 312139752
+canvas_type = "file"
+last_synced = "2026-06-15T06:03:32.071959+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312139752/download?download_frd=1&verifier=Gadt9SvNdi8YOk0TWAEpLV4uBdNTxycMOKeg5GKO"
+
+["assets/Images/How to estimate your own grade/Canvas_NoGrades.png"]
+canvas_id = 312139755
+canvas_type = "file"
+last_synced = "2026-06-15T06:03:33.086665+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312139755/download?download_frd=1&verifier=ZmMqXoEPMtSkBzDRJvPeeD9dUGrBHwuCo3OmFRlU"
+
+["assets/Images/How to make sure you uploaded the correct homework files/MakeSureYouUploadTheCorrectHomeworkFile_1.png"]
+canvas_id = 312139758
+canvas_type = "file"
+last_synced = "2026-06-15T06:03:34.114868+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312139758/download?download_frd=1&verifier=QPiXTDP3FYhTFubhoTBhIOTAr8m7hfBnCi6Xs0Zr"
+
+["assets/Images/jGRASP Walkthrough/jGRASP_Use_The_One_With_Bundled_OpenJDK.png"]
+canvas_id = 312139781
+canvas_type = "file"
+last_synced = "2026-06-15T06:03:43.846070+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312139781/download?download_frd=1&verifier=eUV1NURxE5wxGevjIAVlBYk93vLFlKDXfYuby1AL"
+
+["assets/Uploaded Media/image-020bf220-b64c-4cb3-b053-53af9dba0510.png"]
+canvas_id = 312062157
+canvas_type = "file"
+last_synced = "2026-06-14T03:03:05.457123+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312062157/download?download_frd=1&verifier=p0sWbXYqqJik2V9pQiCQJHyMc8FsrlKxNC0hpfu1"
+
+["assets/Uploaded Media/image-08df50db-73cc-4a16-b47e-a0592b04149f.png"]
+canvas_id = 312062158
+canvas_type = "file"
+last_synced = "2026-06-14T03:03:06.256777+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312062158/download?download_frd=1&verifier=zZqdWVXzfShlwyIeRSCKDfqgGA7R6eAooQXBSjHa"
+
+["assets/Uploaded Media/image-0d67dfec-2bb8-4734-b19d-6ac6b4976cf0.png"]
+canvas_id = 312062160
+canvas_type = "file"
+last_synced = "2026-06-14T03:03:07.284414+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312062160/download?download_frd=1&verifier=bOgUjbQFgTCi1ooXJn7AyQGNpDP36tuWYIkWgyXR"
+
+["assets/Uploaded Media/image-0e1e28b8-b437-47a8-922e-9d0f9070e111.png"]
+canvas_id = 312062162
+canvas_type = "file"
+last_synced = "2026-06-14T03:03:08.002320+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312062162/download?download_frd=1&verifier=YtkOpKnYUoll8ZaZ32zetoUZ5s6RohwVioY2XTPz"
+
+["assets/Uploaded Media/image-1.png"]
+canvas_id = 312062165
+canvas_type = "file"
+last_synced = "2026-06-14T03:03:08.816457+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312062165/download?download_frd=1&verifier=H5XD9fBNuGSZWEFwZQRCNQBBn1gk3J0ZDsAuMN3M"
+
+["assets/Uploaded Media/image-1423dbc4-4c76-4764-9d0b-cd7fbf2ee69f.png"]
+canvas_id = 312062167
+canvas_type = "file"
+last_synced = "2026-06-14T03:03:09.533464+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312062167/download?download_frd=1&verifier=va3ulO9rGIDsnUH6bFat9RCPIZkwOPbrpgHbGRfl"
+
+["assets/Uploaded Media/image-2-1.png"]
+canvas_id = 312062168
+canvas_type = "file"
+last_synced = "2026-06-14T03:03:10.250352+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312062168/download?download_frd=1&verifier=DGTzNQLuhiSPXN27Ngj5b2HkCiGkZ5Bk3KjnOsY8"
+
+["assets/Uploaded Media/image-3-1.png"]
+canvas_id = 312062170
+canvas_type = "file"
+last_synced = "2026-06-14T03:03:11.379912+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312062170/download?download_frd=1&verifier=YGl5uwxbQisZixcwYU5ecJdUV37O1x4K1LKXclJt"
+
+["assets/Uploaded Media/image-4.png"]
+canvas_id = 312062171
+canvas_type = "file"
+last_synced = "2026-06-14T03:03:12.093493+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312062171/download?download_frd=1&verifier=jDCHu4wRYwM7ZmJnIzNzhLiF2sYrWZ5l1aqLxP61"
+
+["assets/Uploaded Media/image-5.png"]
+canvas_id = 312062172
+canvas_type = "file"
+last_synced = "2026-06-14T03:03:13.015184+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312062172/download?download_frd=1&verifier=3WNIBDAWBE1n1eK5tDfbQRkAEqCZFI1JOq7FKQ5s"
+
+["assets/Uploaded Media/image-6.png"]
+canvas_id = 312062173
+canvas_type = "file"
+last_synced = "2026-06-14T03:03:13.732154+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312062173/download?download_frd=1&verifier=jQ3VtASrwsMAvKpNfX4q9nPJwMzDxF042UzZNn0a"
+
+["assets/Uploaded Media/image-7.png"]
+canvas_id = 312062174
+canvas_type = "file"
+last_synced = "2026-06-14T03:03:14.448990+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312062174/download?download_frd=1&verifier=E245JRMD9Lbg731WmRNEIlVN6rYeNbOpQJWw77Pr"
+
+["assets/Uploaded Media/image-789163bf-3bbb-4d58-932a-57635a9bbf4b.png"]
+canvas_id = 312062175
+canvas_type = "file"
+last_synced = "2026-06-14T03:03:15.063367+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312062175/download?download_frd=1&verifier=AZh96WAjdZDnplSj805F4jmOunlmMuM4Ce49rwlb"
+
+["assets/Uploaded Media/image-945e0de2-a205-4a35-8efd-eac7b7ec2bc6.png"]
+canvas_id = 312062176
+canvas_type = "file"
+last_synced = "2026-06-14T03:03:15.696905+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312062176/download?download_frd=1&verifier=o6mDXia1mIJXbyl2zKcrhEWd9g2Z1kOZqIQEI1cf"
+
+["assets/Uploaded Media/image-ba91a175-398e-4f36-bd93-794e7324b140.png"]
+canvas_id = 312062177
+canvas_type = "file"
+last_synced = "2026-06-14T03:03:16.600956+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312062177/download?download_frd=1&verifier=MQeVlaXjKHjUIiorwdCRUP1BgoQYRUELdle4oXgo"
+
+["assets/Uploaded Media/image-cca920c0-2334-4632-8443-ba5748aee0ff.png"]
+canvas_id = 312062178
+canvas_type = "file"
+last_synced = "2026-06-14T03:03:17.380395+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312062178/download?download_frd=1&verifier=VDLOKC4FIxFrIvD1SdynBKUqdAkNgdX6fprkiKKG"
+
+["assets/Uploaded Media/image-d8afe6c1-7d66-48a3-b9ed-aa25c90c8290.png"]
+canvas_id = 312062180
+canvas_type = "file"
+last_synced = "2026-06-14T03:03:18.139294+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312062180/download?download_frd=1&verifier=eH9ObBRi28BC3ToKYLDVPWsdDCswypThURwHSpdV"
+
+["assets/Uploaded Media/image.png"]
+canvas_id = 312062182
+canvas_type = "file"
+last_synced = "2026-06-14T03:03:18.955787+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312062182/download?download_frd=1&verifier=F1sje77YitdqxP81j8KIrtGDPytDxkG4PODa7MfJ"
+
+["pages/how-to-find-due-dates-using-canvas-calendar.md"]
+canvas_id = 40660563
+canvas_type = "page"
+last_synced = "2026-06-15T06:03:52.146087+00:00"
+canvas_url = "how-to-find-due-dates-using-canvas-calendar"
+
+["pages/how-to-install-jgrasp-on-macos-detailed-version.md"]
+canvas_id = 40660564
+canvas_type = "page"
+last_synced = "2026-06-14T07:54:28.102707+00:00"
+canvas_url = "how-to-install-jgrasp-on-macos-detailed-version"
+
+["pages/how-to-make-sure-that-you-submitted-the-correct-file-s-for-your-homework.md"]
+canvas_id = 40660565
+canvas_type = "page"
+last_synced = "2026-06-15T06:03:53.986679+00:00"
+canvas_url = "how-to-make-sure-that-you-submitted-the-correct-file-s-for-your-homework"
+
+["pages/how-to-set-up-your-canvas-notifications.md"]
+canvas_id = 40660566
+canvas_type = "page"
+last_synced = "2026-06-15T06:03:55.635912+00:00"
+canvas_url = "how-to-set-up-your-canvas-notifications"
+
+["pages/how-to-use-vmware-views.md"]
+canvas_id = 40660567
+canvas_type = "page"
+last_synced = "2026-06-14T07:54:33.018091+00:00"
+canvas_url = "how-to-use-vmware-views"
+
+["pages/how-to-estimate-your-overall-grade.md"]
+canvas_id = 40663863
+canvas_type = "page"
+last_synced = "2026-06-15T01:48:57.934140+00:00"
+canvas_url = "how-to-estimate-your-overall-grade-2"
+
+["pages/how-to-install-the-required-software-java-and-the-jgrasp-editor.md"]
+canvas_id = 40669572
+canvas_type = "page"
+last_synced = "2026-06-15T04:05:12.461573+00:00"
+canvas_url = "how-to-install-the-required-software-java-and-the-jgrasp-editor"
+
+["assets/Images/canvas_assignments/canvas_assignment_file_upload.png"]
+canvas_id = 312139759
+canvas_type = "file"
+last_synced = "2026-06-15T06:03:34.938336+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312139759/download?download_frd=1&verifier=6vichhXloNoFkZaSEq55jNEePZxfoJuvMFPkRXGV"
+
+["assets/Images/canvas_assignments/canvas_exercise_submission_downloads.png"]
+canvas_id = 312139761
+canvas_type = "file"
+last_synced = "2026-06-15T06:03:35.919584+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312139761/download?download_frd=1&verifier=H6Vjon2q6D8fkFpIpfSlyymjTUHrHbG38yAo2Ue2"
+
+["assets/Images/canvas_calendar/canvas_calendar_assignments_view.png"]
+canvas_id = 312139762
+canvas_type = "file"
+last_synced = "2026-06-15T06:03:36.719923+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312139762/download?download_frd=1&verifier=BkuRHh8eLh87NI9L5cCnv04dvgnzd85QxA0fWimR"
+
+["assets/Images/canvas_calendar/canvas_calendar_course_list.png"]
+canvas_id = 312139765
+canvas_type = "file"
+last_synced = "2026-06-15T06:03:37.701800+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312139765/download?download_frd=1&verifier=Ort7MBvYvIR5lYPj6ftwxt01PmDMS9WjmBybBSlZ"
+
+["assets/Images/canvas_calendar/canvas_calendar_month_view.png"]
+canvas_id = 312139768
+canvas_type = "file"
+last_synced = "2026-06-15T06:03:38.517891+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312139768/download?download_frd=1&verifier=vfBgMS4o9EDCcjw6fKk6roKprTXn1bQtKwRCrgCT"
+
+["assets/Images/canvas_navigation/canvas_account_menu_open.png"]
+canvas_id = 312139770
+canvas_type = "file"
+last_synced = "2026-06-15T06:03:39.339678+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312139770/download?download_frd=1&verifier=4NNpPIMgmKa3JnzMGnZTcF6DgxWoDOu2s2HeIKU1"
+
+["assets/Images/canvas_navigation/canvas_course_navigation_sidebar.png"]
+canvas_id = 312139771
+canvas_type = "file"
+last_synced = "2026-06-15T06:03:40.059142+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312139771/download?download_frd=1&verifier=Ou4plGYjeovigX10xa0PAbx2ejU5Znzpm0Lcayny"
+
+["assets/Images/canvas_notifications/canvas_notification_frequency_dropdown.png"]
+canvas_id = 312139772
+canvas_type = "file"
+last_synced = "2026-06-15T06:03:40.878343+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312139772/download?download_frd=1&verifier=rmtwyO0ZBc6yjtOjTlsJuFBqnIENPpSTGcdWiz94"
+
+["assets/Images/canvas_notifications/canvas_notification_settings_highlighted.png"]
+canvas_id = 312139776
+canvas_type = "file"
+last_synced = "2026-06-15T06:03:41.796968+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312139776/download?download_frd=1&verifier=KkfaUfxDuNxWkBDQ1co2tQrvPShsTAJ43UbYl1e7"
+
+["assets/Images/canvas_notifications/canvas_notification_settings_page.png"]
+canvas_id = 312139778
+canvas_type = "file"
+last_synced = "2026-06-15T06:03:42.650237+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312139778/download?download_frd=1&verifier=zMg3ulLoTVDp5IV5wn6GgPE4v46Iu9maOLyoeVPj"
+
+["assets/Images/java_installation/adoptium_openjdk_download_page.png"]
+canvas_id = 312139784
+canvas_type = "file"
+last_synced = "2026-06-15T06:03:44.663835+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312139784/download?download_frd=1&verifier=Lq3zEVycfWuO0tsDIlGQikOTT480a4vbLfEQ9p7m"
+
+["assets/Images/java_installation/chrome_download_openjdk_open.png"]
+canvas_id = 312139786
+canvas_type = "file"
+last_synced = "2026-06-15T06:03:45.382435+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312139786/download?download_frd=1&verifier=EUCMG5DGTVdG9O0lIsET7RENnDMIpckeVrqgAluk"
+
+["assets/Images/java_installation/chrome_downloads_jgrasp_openjdk.png"]
+canvas_id = 312139789
+canvas_type = "file"
+last_synced = "2026-06-15T06:03:46.244411+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312139789/download?download_frd=1&verifier=4qMzc4pm9fRA1CIpN2uJnbX9J8BBQD5SKqfsqHVl"
+
+["assets/Images/jgrasp_installation/jgrasp_download_page.png"]
+canvas_id = 312139792
+canvas_type = "file"
+last_synced = "2026-06-15T06:03:47.019480+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312139792/download?download_frd=1&verifier=kwL2czBqWL39J0yPrkGLGG2Z8wkOkToLTcCtFdqn"
+
+["assets/Images/jgrasp_installation/jgrasp_website_homepage.png"]
+canvas_id = 312139793
+canvas_type = "file"
+last_synced = "2026-06-15T06:03:47.842260+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312139793/download?download_frd=1&verifier=F4fy3AyxmQ4L0lSL1051BUq6ui7JAX8ev3i7P1p3"
+
+["assets/Images/os_setup/macos_apple_menu_system_settings.png"]
+canvas_id = 312139795
+canvas_type = "file"
+last_synced = "2026-06-15T06:03:48.577932+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312139795/download?download_frd=1&verifier=O3RMi2SkdEMb5tBFcFSKhubsgxPg3R0dC6wpanmV"
+
+["assets/Images/os_setup/macos_privacy_security_settings.png"]
+canvas_id = 312139796
+canvas_type = "file"
+last_synced = "2026-06-15T06:03:49.348736+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312139796/download?download_frd=1&verifier=ud7NtEm17WYJI0eyVXt7zatuaUeoQHmFRgRQJD5I"
+
+["assets/Images/os_setup/windows_preparing_screen.png"]
+canvas_id = 312139801
+canvas_type = "file"
+last_synced = "2026-06-15T06:03:49.944952+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312139801/download?download_frd=1&verifier=wYVFnLDyby21EWLUZvfAKVnue3NQ8UBLi1MI7hnq"

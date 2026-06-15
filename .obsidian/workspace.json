@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "636497898d99d6c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "10343ff492ea794b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dda253af00e1ee07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/how-to-estimate-your-overall-grade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "how-to-estimate-your-overall-grade"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bfa7de13eb314a33",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9cf9448cac10c4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d771a573e074eda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "00dd5144ae5be025",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6a35f0d089e44738",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b5a3a3c08c41b2da",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a20e7c157491323",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4393124e832defad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/how-to-estimate-your-overall-grade.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for how-to-estimate-your-overall-grade"
+            }
+          },
+          {
+            "id": "624548b3516e72ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pages/how-to-estimate-your-overall-grade.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from how-to-estimate-your-overall-grade"
+            }
+          },
+          {
+            "id": "51b897e47c8635e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2a0f9d5729c9a1fd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "48edae7484042cf0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pages/how-to-estimate-your-overall-grade.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of how-to-estimate-your-overall-grade"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "dda253af00e1ee07",
+  "lastOpenFiles": [
+    "pages/how-to-make-sure-that-you-submitted-the-correct-file-s-for-your-homework.md.tmp.719558.9c995922ce17",
+    "pages/how-to-set-up-your-canvas-notifications.md.tmp.719558.ae3e5225df8b",
+    "pages/how-to-find-due-dates-using-canvas-calendar.md.tmp.719558.a9b39dd28e5d",
+    "pages/how-to-make-sure-that-you-submitted-the-correct-file-s-for-your-homework.md.tmp.719558.b4419cda5bda",
+    "pages/how-to-set-up-your-canvas-notifications.md.tmp.719558.c0c544d82893",
+    "pages/how-to-find-due-dates-using-canvas-calendar.md.tmp.719558.479548bdb58c",
+    "pages/how-to-make-sure-that-you-submitted-the-correct-file-s-for-your-homework.md.tmp.719558.33a098cd35f6",
+    "pages/how-to-set-up-your-canvas-notifications.md.tmp.719558.99f7689fb146",
+    "pages/how-to-find-due-dates-using-canvas-calendar.md.tmp.719558.fb80fb09e0b8",
+    "pages/how-to-make-sure-that-you-submitted-the-correct-file-s-for-your-homework.md.tmp.719558.dab5e9e55d88",
+    "pages/how-to-set-up-your-canvas-notifications.md.tmp.719558.811b505eda51",
+    "assets/Images/os_setup/windows_preparing_screen.png",
+    "assets/Images/os_setup/macos_apple_menu_system_settings.png",
+    "assets/Images/os_setup/macos_privacy_security_settings.png",
+    "assets/Images/java_installation/chrome_download_openjdk_open.png",
+    "assets/Images/java_installation/chrome_downloads_jgrasp_openjdk.png",
+    "assets/Images/java_installation/adoptium_openjdk_download_page.png",
+    "assets/Images/jgrasp_installation/jgrasp_download_page.png",
+    "assets/Images/jgrasp_installation/jgrasp_website_homepage.png",
+    "assets/Images/canvas_assignments/canvas_exercise_submission_downloads.png",
+    "assets/Images/canvas_assignments/canvas_assignment_file_upload.png",
+    "IMAGE_CHANGES.md",
+    "pages/how-to-install-the-required-software-java-and-the-jgrasp-editor.md",
+    "snippets/inline/quarter_name.md",
+    "snippets/inline/instructor_name.md",
+    "snippets/inline/course_name_full.md",
+    "snippets/inline/CANVAS_COURSE_REFERENCE.md",
+    "snippets/inline/CANVAS_COURSE_ID.md"
+  ]
+}

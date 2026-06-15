@@ -1,0 +1,6 @@
+base_url = "https://cascadia.instructure.com"
+course_id = 2735320
+
+# [auth]
+# Prefer env var CANVAS_API_TOKEN; this is a fallback for local use only
+# api_token = ""

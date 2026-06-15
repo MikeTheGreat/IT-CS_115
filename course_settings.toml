@@ -1,0 +1,22 @@
+# title = "IT-CS115 01 4945 - W26 - Introduction to Programming"
+#course_code = "IT-CS115 01 4945"
+default_view = "wiki"
+front_page = "pages/LandingPage.md"
+
+syllabus_course_summary = true
+
+#assignment_groups = [
+#     { title = "Bookkeeping", position = 1, group_weight = 0.0 },
+#     { title = "Exams", position = 2, group_weight = 50.0 },
+#     { title = "Labs", position = 3, group_weight = 30.0 },
+#     { title = "Imported Assignments", position = 4, group_weight = 0.0 },
+#     { title = "In-class Exercises", position = 5, group_weight = 20.0 },
+# ]
+
+hide_final_grade = true
+
+[default_post_policy]
+post_manually = true
+
+[late_policy]
+missing_submission_deduction_enabled = false
