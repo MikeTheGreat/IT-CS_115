@@ -18,7 +18,7 @@ canvas_url = "landingpage"
 ["course_settings.toml"]
 canvas_id = 0
 canvas_type = "course_settings"
-last_synced = "2026-06-17T02:51:49.316740+00:00"
+last_synced = "2026-06-18T03:18:54.859239+00:00"
 
 ["course_settings/module_order.toml"]
 canvas_id = 0
@@ -239,7 +239,12 @@ last_synced = "2026-06-17T23:58:53.847024+00:00"
 canvas_url = "https://cascadia.instructure.com/files/312446092/download?download_frd=1&verifier=7WVeUwr8elbLChtFOqEdz5dlvUDSjlzqkodtkCiW"
 
 ["assets/syllabus/IT-CS 115 Panitz Syllabus Summer 2026.docx"]
-canvas_id = 312454948
+canvas_id = 312455901
 canvas_type = "file"
-last_synced = "2026-06-18T01:52:30.569945+00:00"
-canvas_url = "https://cascadia.instructure.com/files/312454948/download?download_frd=1&verifier=bqCb2mk3VQDv9XrTqAVMVfUSSfEeIDNthYpldAfd"
+last_synced = "2026-06-18T03:18:56.388786+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312455901/download?download_frd=1&verifier=2xgltZQ4rMfxpiPmb3v8BWBJBBxtII7STfseb31h"
+
+["course_settings/course_settings.toml"]
+canvas_id = 0
+canvas_type = "course_settings"
+last_synced = "2026-06-18T05:40:13.094204+00:00"
