@@ -4,9 +4,9 @@ published: true
 require_sequential_progress: false
 ---
 
-# SKIPPED: Attachment - "IT-CS 115 Course Orientation.pptx -  PowerPoint slides explaining how this section is run" (g015455210b99d0f4d85d074f3229a8e2)
-
 ## Welcome to this class! 👋
+
+- [Course Overview: Summer Quarter](../pages/course-overview-summer-quarter.md)
 
 - [How To Estimate Your Overall Grade](../pages/how-to-estimate-your-overall-grade.md)
 
@@ -25,7 +25,3 @@ require_sequential_progress: false
 - ## Software Setup For This Class
 
 - [How To Install The Required Software (Java and the jGRASP editor)](../pages/how-to-install-the-required-software-java-and-the-jgrasp-editor.md)
-
-```(=comment)
-- [Course Orientation - Overview of how this class is run, what you need to do, etc](../pages/course-orientation-overview-of-how-this-class-is-run-what-you-need-to-do-etc.md)
-```
