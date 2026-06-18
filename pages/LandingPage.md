@@ -1,20 +1,34 @@
 ---
 published: true
 ---
+
 Welcome to [FULL COURSE NAME](../snippets/inline/course_name_full.md), here in this [QUARTER](../snippets/inline/quarter_name.md)
 
 (Note: This course was called "BIT 115" for years, and I'll probably, mistakenly, call it that sometimes during this quarter.)
 
 Course Instructor: [INSTRUCTOR NAME](../snippets/inline/instructor_name.md)
 
+## This is an online class WITH IN PERSON EXAMS
 
-# tl;dr:
+This is an asynchronous online class EXCEPT for the two exams, which will be done in-person on the following days:
 
-**All course materials can be found in the modules tab**
+- Midterm on Thursday July 30th 6-8pm
 
- The material for the first day of class is in the 'Modules' section, specifically .  Please find that module and read the entire thing, working from top to bottom.
+- Final exam on Thursday August 27th 6-8pm
 
-```{=comment-for-in-person-sections} 
+The exams will happen on Cascadia's campus.  We don't have an assigned room yet but this page will be updated when we get a room.
+
+## All course material is available on the 'Modules' page
+
+ The material for this class are in [the 'Modules' page]($../snippets/inline/CANVAS_COURSE_REFERENCE.md$/modules).  
+
+- Please start with the top-most module and work your way down.  
+
+- For each module please read all the material and do all the work.  
+
+- You can [find due dates in the Canvas Calendar](how-to-find-due-dates-using-canvas-calendar.md)
+
+```{=comment-for-in-person-sections}
 ## **First Day of Class:**
 
 This class will meet in **person on the Cascadia College campus** on the following schedule:  
@@ -24,22 +38,33 @@ This class will meet in **person on the Cascadia College campus** on the follo
 -   Zoom Class Meeting Info: There is no Zoom meeting for this class.  Instead, we will be meeting in-person
 -   **In-Person Meeting Location: CC1-231 (Computer Lab with PCs)** [(building map available here)](https://www.cascadia.edu/about/places-spaces/default.aspx)
 
-- In-person class meeting: Please find the material for the first day of class in the 'Modules' section, specifically [Lecture 1 - Chapter 1 - Course Orientation and Introduction](https://cascadia.instructure.com/courses/2572351/modules/10099773 "Lecture 1 - Chapter 1 - Course Orientation and Introduction")
+- In-person class meeting: Please find the material for the first day of class in the 'Modules' section, specifically [Lecture 1 - Chapter 1 - Course Orientation and Introduction](../modules/getting-started-in-it-cs-115.md "Lecture 1 - Chapter 1 - Course Orientation and Introduction")
 ```
 
-- WARNING: The [Syllabus](https://cascadia.instructure.com/courses/2572351/assignments/syllabus "Syllabus") specifies that "**If you don’t participate in any of the Canvas activities, during the first two weeks of the quarter then you will be automatically dropped from the course on the 9th of the quarter, at the end of the day.**" (this is in the "Required Actions" section).  Please make sure that you participate in this course by posting to Canvas!
-  - - You might want to check the [Calendar](https://cascadia.instructure.com/calendar) or the [Assignments](https://cascadia.instructure.com/courses/2572351/assignments "Assignments") page to see a list of activities (such as discussion forums, or in-class exercises) that are due during these first two weeks of the quarter)
+## Textbook Information
 
-## **Sources of Help:**
+The [text book is available for free online, here](https://greenteapress.com/wp/think-java-2e/).**
 
-- Office Hours
+- **Textbook Title**: Think Java: How to Think Like a Computer Scientist, 2nd Edition (2020)
+- **Textbook Authors**: Allen B. Downey and Chris Mayfield
 
-    - In Person Office Hours: Mondays from 1:05pm - 3:05pm and by appointment
-      Office hours will start in the CC1-231 classroom until questions have been answered (because I have class right before my office hours and sometime people have questions after class)
-      then I move to my office (INV-230B) to finish any in-person questions,
-      then I stay in my office (INV-230B) and get on Zoom ([See Zoom Details here](https://cascadia.instructure.com/courses/2572351/pages/zoom-links "Zoom links")), and answer any in-person or online questions as people show up
-      (as time allows - I may not get to the later locations if the earlier ones take up all the time)
-    - Additional time is available by appointment.
+## Don't get dropped for non-participation!
+
+- WARNING: The [Syllabus]($../snippets/inline/CANVAS_COURSE_REFERENCE.md$/assignments/syllabus "Syllabus") specifies that "**If you don’t participate in any of the Canvas activities, during the first two weeks of the quarter then you will be automatically dropped from the course on the 9th of the quarter, at the end of the day.**" (this is in the "Required Actions" section).  Please make sure that you participate in this course by posting to Canvas!
+  
+  - 
+You might want to check the [Calendar](https://cascadia.instructure.com/calendar) or the [Assignments]($../snippets/inline/CANVAS_COURSE_REFERENCE.md$/assignments "Assignments") page to see a list of activities (such as discussion forums, or in-class exercises) that are due during these first two weeks of the quarter)
+
+
+
+## Sources of Help:
+
+- Office Hours (these are "Get Extra Help From the Teacher" Hours)
+  
+  - Zoom Office Hours: Tuesdays and Thursdays from 11:30am till 1pm
+    ([See Zoom Details here](https://cascadia.instructure.com/courses/2572351/pages/zoom-links "Zoom links")), 
+  - Additional time is available by appointment - please send me a Canvas message!
+  - If you ever need to [find my physical office here are directions](office-hours.md "Office Hours")
 
 ```{=comment-for-in-person-sections}
 ### Programming Tutor Schedule at the Bock Learning Center
@@ -65,10 +90,3 @@ _Tutoring is not available on weekends, holidays, and non-instructional days._
 
 With the exception of Fridays, Melissa and eveie will be on campus for all their tutoring shifts this quarter. Students can either come to the Bock Learning Center (CC2-060) for in-person tutoring or drop into [our Zoom roomLinks to an external site.](https://cascadia.zoom.us/j/84548414071). Please see the [Bock Learning Center’s Canvas site](https://cascadia.instructure.com/courses/2596857) for more information about appointments and drop-in tutoring. 
 ```
-
-## **Textbook Information**  
-
-We will be using the following  reading material(s)  for this course , found at our [campus bookstore](https://www.ubookstore.com/student). **The [e-book is available for free online, here](https://greenteapress.com/wp/think-java-2e/).**
-
-- **Textbook Title**: Think Java: How to Think Like a Computer Scientist, 2nd Edition (2020)
-- **Textbook Authors**: Allen B. Downey and Chris Mayfield
