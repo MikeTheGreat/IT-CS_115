@@ -1,0 +1,20 @@
+[[rubrics]]
+
+title = "Pre-Class Notes"
+read_only = false
+reusable = true
+public = false
+points_possible = 2.0
+hide_score_total = false
+free_form_criterion_comments = false
+rating_order = "descending"
+
+[[rubrics.criteria]]
+description = "Complete"
+long_description = "- Notes follow the Cornell format: includes a title at the top, a cue column, note-taking area, and summary.<br/>\n<br/>\n- Lecture video titles are clearly written at the top of each section.<br/>\n<br/>\n- Notes reflect all (if not most) key concepts and major ideas from the video, shows active listening/reading.<br/>\n<br/>\n- Notes are handwritten and submitted correctly (either in class or uploaded as a clean, legible PDF by the deadline)"
+points = 1.0
+ratings = [
+    { id = "blank", description = "Complete", points = 2.0 },
+    { id = "blank_1", description = "Mostly Complete", points = 1.0 },
+    { id = "blank_2", description = "Incomplete", points = 0.0 },
+]

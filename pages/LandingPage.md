@@ -62,7 +62,7 @@ You might want to check the [Calendar](https://cascadia.instructure.com/calendar
 - Office Hours (these are "Get Extra Help From the Teacher" Hours)
   
   - Zoom Office Hours: Tuesdays and Thursdays from 11:30am till 1pm
-    ([See Zoom Details here](https://cascadia.instructure.com/courses/2572351/pages/zoom-links "Zoom links")), 
+    ([See Zoom Details here](../pages/zoom-links.md "Zoom links")), 
   - Additional time is available by appointment - please send me a Canvas message!
   - If you ever need to [find my physical office here are directions](office-hours.md "Office Hours")
 
