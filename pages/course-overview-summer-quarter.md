@@ -4,8 +4,7 @@ published: true
 
 ---
 
-```
-{=comment-for-in-person-sections}
+```{=comment-for-in-person-sections}
 THIS SHOULD NOT APPEAR
 ``` 
 

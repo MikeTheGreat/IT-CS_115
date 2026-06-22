@@ -28,17 +28,17 @@ last_synced = "2026-06-19T02:14:36.504399+00:00"
 ["modules/getting-started-in-it-cs-115.md"]
 canvas_id = 11354608
 canvas_type = "module"
-last_synced = "2026-06-22T22:39:54.039723+00:00"
+last_synced = "2026-06-22T22:44:35.931339+00:00"
 
 ["modules/getting-started-in-it-cs-115.md".canvas_item_ids]
-"pages/course-overview-summer-quarter.md" = 105696494
-"pages/how-to-estimate-your-overall-grade.md" = 105696495
-"pages/zoom-links.md" = 105696496
-"pages/how-to-set-up-your-canvas-notifications.md" = 105696497
-"pages/how-to-find-due-dates-using-canvas-calendar.md" = 105696498
-"pages/how-to-make-sure-that-you-submitted-the-correct-file-s-for-your-homework.md" = 105696499
-"pages/how-to-use-ai-in-this-course.md" = 105696500
-"pages/how-to-install-the-required-software-java-and-the-jgrasp-editor.md" = 105696501
+"pages/course-overview-summer-quarter.md" = 105696684
+"pages/how-to-estimate-your-overall-grade.md" = 105696685
+"pages/zoom-links.md" = 105696686
+"pages/how-to-set-up-your-canvas-notifications.md" = 105696687
+"pages/how-to-find-due-dates-using-canvas-calendar.md" = 105696688
+"pages/how-to-make-sure-that-you-submitted-the-correct-file-s-for-your-homework.md" = 105696689
+"pages/how-to-use-ai-in-this-course.md" = 105696690
+"pages/how-to-install-the-required-software-java-and-the-jgrasp-editor.md" = 105696691
 
 ["pages/how-to-use-ai-in-this-course.md"]
 canvas_id = 40660438
@@ -252,7 +252,7 @@ last_synced = "2026-06-22T22:25:19.205515+00:00"
 ["pages/course-overview-summer-quarter.md"]
 canvas_id = 40724486
 canvas_type = "page"
-last_synced = "2026-06-22T22:39:44.301611+00:00"
+last_synced = "2026-06-22T22:44:27.393664+00:00"
 canvas_url = "course-intro-summer-quarter-start-here-read-this-and-watch-the-videos"
 
 ["pages/pre-class-notes-policy.md"]
