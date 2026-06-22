@@ -1,5 +1,8 @@
-# title = "IT-CS115 01 4945 - W26 - Introduction to Programming"
+title = "IT-CS115 01 4945 - W26 - Introduction to Programming"
 #course_code = "IT-CS115 01 4945"
+
+dashboard_image = "assets/course_settings/IT-CS_115_dashboard_logo.png"
+
 default_view = "wiki"
 front_page = "pages/LandingPage.md"
 

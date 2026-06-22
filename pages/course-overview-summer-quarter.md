@@ -4,6 +4,11 @@ published: true
 
 ---
 
+```
+{=comment-for-in-person-sections}
+THIS SHOULD NOT APPEAR
+``` 
+
 ## What is this? {#what-is-this heading="Overview of course"}
 
 - This is the outline for short videos that explain the most important parts of this class.

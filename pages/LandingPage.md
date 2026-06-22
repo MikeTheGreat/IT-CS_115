@@ -2,6 +2,8 @@
 published: true
 ---
 
+![](../assets/course_settings/ITCS_115_Banner_Green.svg)\
+
 Welcome to [FULL COURSE NAME](../snippets/inline/course_name_full.md), here in this [QUARTER](../snippets/inline/quarter_name.md)
 
 (Note: This course was called "BIT 115" for years, and I'll probably, mistakenly, call it that sometimes during this quarter.)

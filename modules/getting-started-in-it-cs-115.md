@@ -7,7 +7,6 @@ require_sequential_progress: false
 ## Welcome to this class! 👋
 
 - [Course Intro: Summer Quarter 👈 START HERE!! READ THIS AND WATCH THE VIDEOS!!! 👈](../pages/course-overview-summer-quarter.md)
-- [FILE UPLOAD](../assets/Images/canvas_assignments/canvas_assignment_file_upload.png)
 
 - [How To Estimate Your Overall Grade](../pages/how-to-estimate-your-overall-grade.md)
 

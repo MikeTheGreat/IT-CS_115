@@ -12,7 +12,7 @@ last_synced = "2026-06-19T02:14:16.528276+00:00"
 ["pages/LandingPage.md"]
 canvas_id = 40658992
 canvas_type = "page"
-last_synced = "2026-06-19T02:20:05.007342+00:00"
+last_synced = "2026-06-22T22:35:50.314337+00:00"
 canvas_url = "landingpage"
 
 ["course_settings.toml"]
@@ -28,18 +28,17 @@ last_synced = "2026-06-19T02:14:36.504399+00:00"
 ["modules/getting-started-in-it-cs-115.md"]
 canvas_id = 11354608
 canvas_type = "module"
-last_synced = "2026-06-19T23:10:14.472340+00:00"
+last_synced = "2026-06-22T22:39:54.039723+00:00"
 
 ["modules/getting-started-in-it-cs-115.md".canvas_item_ids]
-"pages/course-overview-summer-quarter.md" = 105604701
-"assets/Images/canvas_assignments/canvas_assignment_file_upload.png" = 105604702
-"pages/how-to-estimate-your-overall-grade.md" = 105604703
-"pages/zoom-links.md" = 105604704
-"pages/how-to-set-up-your-canvas-notifications.md" = 105604705
-"pages/how-to-find-due-dates-using-canvas-calendar.md" = 105604706
-"pages/how-to-make-sure-that-you-submitted-the-correct-file-s-for-your-homework.md" = 105604707
-"pages/how-to-use-ai-in-this-course.md" = 105604708
-"pages/how-to-install-the-required-software-java-and-the-jgrasp-editor.md" = 105604709
+"pages/course-overview-summer-quarter.md" = 105696494
+"pages/how-to-estimate-your-overall-grade.md" = 105696495
+"pages/zoom-links.md" = 105696496
+"pages/how-to-set-up-your-canvas-notifications.md" = 105696497
+"pages/how-to-find-due-dates-using-canvas-calendar.md" = 105696498
+"pages/how-to-make-sure-that-you-submitted-the-correct-file-s-for-your-homework.md" = 105696499
+"pages/how-to-use-ai-in-this-course.md" = 105696500
+"pages/how-to-install-the-required-software-java-and-the-jgrasp-editor.md" = 105696501
 
 ["pages/how-to-use-ai-in-this-course.md"]
 canvas_id = 40660438
@@ -248,12 +247,12 @@ canvas_url = "https://cascadia.instructure.com/files/312455901/download?download
 ["course_settings/course_settings.toml"]
 canvas_id = 0
 canvas_type = "course_settings"
-last_synced = "2026-06-20T03:17:29.278052+00:00"
+last_synced = "2026-06-22T22:25:19.205515+00:00"
 
 ["pages/course-overview-summer-quarter.md"]
 canvas_id = 40724486
 canvas_type = "page"
-last_synced = "2026-06-19T00:06:25.568178+00:00"
+last_synced = "2026-06-22T22:39:44.301611+00:00"
 canvas_url = "course-intro-summer-quarter-start-here-read-this-and-watch-the-videos"
 
 ["pages/pre-class-notes-policy.md"]
@@ -281,3 +280,15 @@ last_synced = "2026-06-19T21:09:05.806931+00:00"
 canvas_id = 41039295
 canvas_type = "assignment"
 last_synced = "2026-06-20T03:17:30.984460+00:00"
+
+["assets/course_settings/IT-CS_115_dashboard_logo.png"]
+canvas_id = 312811068
+canvas_type = "file"
+last_synced = "2026-06-22T22:24:15.810287+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312811068/download?download_frd=1&verifier=ay8zv7QknWbqMT6zVlwVTICevDxXGfoPBWxF5t3p"
+
+["assets/course_settings/ITCS_115_Banner_Green.svg"]
+canvas_id = 312811069
+canvas_type = "file"
+last_synced = "2026-06-22T22:24:16.508020+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312811069/download?download_frd=1&verifier=4iyNLx6WGVwgnD0NrqkwOofV10VW8JNq5dd3Imxg"

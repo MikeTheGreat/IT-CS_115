@@ -11,14 +11,10 @@
             "id": "dda253af00e1ee07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pages/how-to-estimate-your-overall-grade.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "how-to-estimate-your-overall-grade"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -185,6 +181,7 @@
   },
   "active": "dda253af00e1ee07",
   "lastOpenFiles": [
+    "pages/how-to-estimate-your-overall-grade.md",
     "pages/how-to-make-sure-that-you-submitted-the-correct-file-s-for-your-homework.md.tmp.719558.9c995922ce17",
     "pages/how-to-set-up-your-canvas-notifications.md.tmp.719558.ae3e5225df8b",
     "pages/how-to-find-due-dates-using-canvas-calendar.md.tmp.719558.a9b39dd28e5d",
@@ -195,7 +192,6 @@
     "pages/how-to-set-up-your-canvas-notifications.md.tmp.719558.99f7689fb146",
     "pages/how-to-find-due-dates-using-canvas-calendar.md.tmp.719558.fb80fb09e0b8",
     "pages/how-to-make-sure-that-you-submitted-the-correct-file-s-for-your-homework.md.tmp.719558.dab5e9e55d88",
-    "pages/how-to-set-up-your-canvas-notifications.md.tmp.719558.811b505eda51",
     "assets/Images/os_setup/windows_preparing_screen.png",
     "assets/Images/os_setup/macos_apple_menu_system_settings.png",
     "assets/Images/os_setup/macos_privacy_security_settings.png",
