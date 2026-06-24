@@ -1,0 +1,1 @@
+Tuesdays and Thursdays from 11am till 1pm

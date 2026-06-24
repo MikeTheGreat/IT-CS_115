@@ -1,14 +1,21 @@
 ---
-title: Pre-Class Notes Policy
+title: Class Notes Policy
 published: true
 ---
-## Pre-Class Notes Policy {#pre-class-notes-policy data-start="120" end="162"}
+## Class Notes Policy {#pre-class-notes-policy data-start="120" end="162"}
 
-Before each class (unless it\'s an exam day), you're expected to review the **pre-lecture material,** including lecture videos and textbook readings, and take notes by hand using the **Cornell Note-Taking System** on **physical paper**.
+(Warning: During in-person courses these notes are due before class sessions so I used to call them **pre**-class notes. I'm now calling them just "class notes" )
 
+Throughout this class you're expected to view videos and textbook readings, and take notes by hand using the **Cornell Note-Taking System** on **physical paper**.
 
 🧠 **Highly recommended**: Use **one dedicated notebook** for this class to keep all your Cornell notes in one place. This will help you stay organized, make it easier to bring to class each day, and give you a complete study resource by the end of the term.
 
+EXCEPTION: You are allowed to write out your using a stylus/pen-thingee on a computer screen as long as you do the work on your own (this is where the learning happens!  Don't just look up the answer and copy it over!).  For example, some folks have iPads and iPencils and can draw/hand-write on the screen to do this work.  Other folks may have a 'drawing tablet' in order to draw art on their computers and could use those to hand-write their answers into the computer.  **These things are fine as long as you're hand-writing your answers, which you figured out on your own.**
+
+WARNING: If the instructor thinks that you've typed this in (or done anything other than hand-writing it) then you'll get a zero.  Specifically watch out for the Apple Pencil feature where it recognizes your handwriting and then 'smooths it out' or 'cleans it up'.  The result looks like it was typed, even if you actually hand-wrote it.  In this case you'll get a zero because the instructor can't tell that you wrote it.  
+The safest plan is to hand-write your notes on paper, but if you're willing to accept the risk you can try using your iPad, etc.
+
+```{=comment-for-in-person-sections}
 ### 📝 Bringing Notes to Class {#bringing-notes-to-class data-start="395" end="426"}
 
 -   Bring your notes to class so I can check them off at the **start of class**.
@@ -31,11 +38,13 @@ Before each class (unless it\'s an exam day), you're expected to review the **pr
 
 -   Even if you submitted them online, I prefer to check them off in person when possible. This helps reduce my grading load so I can spend more time giving feedback on your homework and exams.
 
+
 ## Why take notes? {#why-take-notes data-start="180" end="238"}
 
 Since this is a flipped classroom, you'll be watching lectures and reading the textbook *before* class. That means our in-class time will be mainly dedicated to solving problems and applying what you've learned---*not* reviewing the material from scratch.
 
 To help you prepare and get the most out of these active learning sessions, you're required to take notes using the **Cornell Note-Taking System** on **physical paper**. You will be able to use your physical paper notes during our in-class sessions.
+```
 
 ## Why paper? Why this system? {#why-paper-why-this-system data-start="691" end="1018"}
 

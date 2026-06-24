@@ -12,7 +12,7 @@ last_synced = "2026-06-19T02:14:16.528276+00:00"
 ["pages/LandingPage.md"]
 canvas_id = 40658992
 canvas_type = "page"
-last_synced = "2026-06-22T22:35:50.314337+00:00"
+last_synced = "2026-06-23T19:14:19.282909+00:00"
 canvas_url = "landingpage"
 
 ["course_settings.toml"]
@@ -28,17 +28,20 @@ last_synced = "2026-06-19T02:14:36.504399+00:00"
 ["modules/getting-started-in-it-cs-115.md"]
 canvas_id = 11354608
 canvas_type = "module"
-last_synced = "2026-06-22T22:44:35.931339+00:00"
+last_synced = "2026-06-24T05:53:43.176886+00:00"
 
 ["modules/getting-started-in-it-cs-115.md".canvas_item_ids]
-"pages/course-overview-summer-quarter.md" = 105696684
-"pages/how-to-estimate-your-overall-grade.md" = 105696685
-"pages/zoom-links.md" = 105696686
-"pages/how-to-set-up-your-canvas-notifications.md" = 105696687
-"pages/how-to-find-due-dates-using-canvas-calendar.md" = 105696688
-"pages/how-to-make-sure-that-you-submitted-the-correct-file-s-for-your-homework.md" = 105696689
-"pages/how-to-use-ai-in-this-course.md" = 105696690
-"pages/how-to-install-the-required-software-java-and-the-jgrasp-editor.md" = 105696691
+"pages/course-overview-summer-quarter.md" = 105753182
+"pages/pre-class-notes-policy.md" = 105753183
+"assets/Exam-Related/IT-CS 115 Exam Reference Sheet.docx" = 105753184
+"pages/zoom-links.md" = 105753186
+"pages/how-to-set-up-your-canvas-notifications.md" = 105753187
+"pages/how-to-find-due-dates-using-canvas-calendar.md" = 105753188
+"pages/how-to-make-sure-that-you-submitted-the-correct-file-s-for-your-homework.md" = 105753190
+"pages/how-to-estimate-your-overall-grade.md" = 105753191
+"pages/how-to-use-ai-in-this-course.md" = 105753192
+"pages/how-to-install-the-required-software-java-and-the-jgrasp-editor.md" = 105753194
+"pages/course_orientation/code-quality-guide.md" = 105753195
 
 ["pages/how-to-use-ai-in-this-course.md"]
 canvas_id = 40660438
@@ -49,7 +52,7 @@ canvas_url = "how-to-use-ai-in-this-course"
 ["pages/zoom-links.md"]
 canvas_id = 40660440
 canvas_type = "page"
-last_synced = "2026-06-15T02:21:13.999394+00:00"
+last_synced = "2026-06-22T23:52:58.096150+00:00"
 canvas_url = "zoom-links"
 
 ["assets/Images/How to estimate your own grade/Canvas_ASingleGrade.png"]
@@ -97,13 +100,13 @@ canvas_url = "how-to-set-up-your-canvas-notifications"
 ["pages/how-to-estimate-your-overall-grade.md"]
 canvas_id = 40663863
 canvas_type = "page"
-last_synced = "2026-06-19T02:14:25.843521+00:00"
+last_synced = "2026-06-23T00:27:26.719547+00:00"
 canvas_url = "how-to-estimate-your-overall-grade-2"
 
 ["pages/how-to-install-the-required-software-java-and-the-jgrasp-editor.md"]
 canvas_id = 40669572
 canvas_type = "page"
-last_synced = "2026-06-15T04:05:12.461573+00:00"
+last_synced = "2026-06-23T00:33:24.798161+00:00"
 canvas_url = "how-to-install-the-required-software-java-and-the-jgrasp-editor"
 
 ["assets/Images/canvas_assignments/canvas_assignment_file_upload.png"]
@@ -239,10 +242,10 @@ last_synced = "2026-06-17T23:58:53.847024+00:00"
 canvas_url = "https://cascadia.instructure.com/files/312446092/download?download_frd=1&verifier=7WVeUwr8elbLChtFOqEdz5dlvUDSjlzqkodtkCiW"
 
 ["assets/syllabus/IT-CS 115 Panitz Syllabus Summer 2026.docx"]
-canvas_id = 312455901
+canvas_id = 312916409
 canvas_type = "file"
-last_synced = "2026-06-18T03:18:56.388786+00:00"
-canvas_url = "https://cascadia.instructure.com/files/312455901/download?download_frd=1&verifier=2xgltZQ4rMfxpiPmb3v8BWBJBBxtII7STfseb31h"
+last_synced = "2026-06-24T07:26:13.468685+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312916409/download?download_frd=1&verifier=1mxzW1HHQWwVnazgr48wIIbJza3OUhhLuIerDMur"
 
 ["course_settings/course_settings.toml"]
 canvas_id = 0
@@ -252,14 +255,14 @@ last_synced = "2026-06-22T22:25:19.205515+00:00"
 ["pages/course-overview-summer-quarter.md"]
 canvas_id = 40724486
 canvas_type = "page"
-last_synced = "2026-06-22T22:44:27.393664+00:00"
+last_synced = "2026-06-23T20:02:10.971693+00:00"
 canvas_url = "course-intro-summer-quarter-start-here-read-this-and-watch-the-videos"
 
 ["pages/pre-class-notes-policy.md"]
 canvas_id = 40750532
 canvas_type = "page"
-last_synced = "2026-06-19T19:09:33.144634+00:00"
-canvas_url = "pre-class-notes-policy"
+last_synced = "2026-06-23T20:28:30.703406+00:00"
+canvas_url = "class-notes-policy"
 
 ["assignments/02-pre-class-notes-chapters-1-dot-4-1-dot-7-2-dot-1-2-dot-5.md"]
 canvas_id = 41037944
@@ -292,3 +295,106 @@ canvas_id = 312811069
 canvas_type = "file"
 last_synced = "2026-06-22T22:24:16.508020+00:00"
 canvas_url = "https://cascadia.instructure.com/files/312811069/download?download_frd=1&verifier=4iyNLx6WGVwgnD0NrqkwOofV10VW8JNq5dd3Imxg"
+
+["assets/Exam-Related/IT-CS 115 Exam Reference Sheet.docx"]
+canvas_id = 312866119
+canvas_type = "file"
+last_synced = "2026-06-23T18:57:52.008298+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312866119/download?download_frd=1&verifier=jJUoxghir5kzs5ZbbJdMIwcvfWJpYAYpzKjNpNcn"
+
+["pages/course_orientation/code-quality-guide.md"]
+canvas_id = 40820155
+canvas_type = "page"
+last_synced = "2026-06-23T19:46:40.893570+00:00"
+canvas_url = "code-quality-guide"
+
+["modules/getting-started-in-it-cs-115 copy.md"]
+canvas_id = 11385584
+canvas_type = "module"
+last_synced = "2026-06-23T23:51:16.526595+00:00"
+
+["assets/Lecture-Related/Unit-01/01-Introduction.pptx"]
+canvas_id = 312903905
+canvas_type = "file"
+last_synced = "2026-06-24T01:15:54.025923+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312903905/download?download_frd=1&verifier=iQSL5OpgRuoLQ8h54H9lpMzFejuhAPaYfqHUvBZa"
+
+["assets/Lecture-Related/Unit-01/01-Unit-Worksheet-01.docx"]
+canvas_id = 312903906
+canvas_type = "file"
+last_synced = "2026-06-24T01:15:54.805035+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312903906/download?download_frd=1&verifier=gpLL1XRumNcml9lyNyIBbq1hkOcrSy2EEBbsW2kO"
+
+["assets/Lecture-Related/Unit-01/01-Unit-Worksheet-1-Solutions.docx"]
+canvas_id = 312903907
+canvas_type = "file"
+last_synced = "2026-06-24T01:15:55.481984+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312903907/download?download_frd=1&verifier=I6vIidJZfEEdpjggMIAxRXGtnICoG9GiFemGy3r7"
+
+["assets/Lecture-Related/Unit-01/Hello.java"]
+canvas_id = 312903908
+canvas_type = "file"
+last_synced = "2026-06-24T01:15:56.139560+00:00"
+canvas_url = "https://cascadia.instructure.com/files/312903908/download?download_frd=1&verifier=68Jm8ewmoPQIoHVREjTSR67CNgpjRfIx4ALkObmu"
+
+["assignments/01-computer-setup-and-digital-organization.md"]
+canvas_id = 41091218
+canvas_type = "assignment"
+last_synced = "2026-06-24T01:15:57.201304+00:00"
+
+["quizzes/01-getting-to-know-you/01-getting-to-know-you.md"]
+canvas_id = 10740376
+canvas_type = "quiz"
+last_synced = "2026-06-24T05:53:30.054991+00:00"
+
+["quizzes/01-getting-to-know-you/01-getting-to-know-you.md".canvas_question_ids]
+"questions/question.md" = 202828586
+"questions/question-1.md" = 202828587
+"questions/question-2.md" = 202828588
+"questions/question-3.md" = 202828589
+"questions/question-4.md" = 202828590
+"questions/question-5.md" = 202828591
+"questions/question-6.md" = 202828592
+"questions/question-7.md" = 202828593
+"questions/question-8.md" = 202828594
+
+["modules/unit-01.md"]
+canvas_id = 11386129
+canvas_type = "module"
+last_synced = "2026-06-24T07:26:53.086677+00:00"
+
+["modules/unit-01.md".canvas_item_ids]
+"assets/Lecture-Related/Unit-01/01-Introduction.pptx" = 105753501
+"assignments/01-computer-setup-and-digital-organization.md" = 105753503
+"quizzes/01-syllabus-quiz/01-syllabus-quiz.md" = 105753504
+"quizzes/01-getting-to-know-you/01-getting-to-know-you.md" = 105753505
+"assets/Lecture-Related/Unit-01/01-Unit-Worksheet-01.docx" = 105753506
+"assets/Lecture-Related/Unit-01/01-Unit-Worksheet-1-Solutions.docx" = 105753507
+
+["quizzes/01-syllabus-quiz/01-syllabus-quiz.md"]
+canvas_id = 10740608
+canvas_type = "quiz"
+last_synced = "2026-06-24T07:26:46.570456+00:00"
+
+["quizzes/01-syllabus-quiz/01-syllabus-quiz.md".canvas_question_ids]
+"questions/question.md" = 202828894
+"questions/question-1.md" = 202828895
+"questions/question-2.md" = 202828896
+"questions/question-3.md" = 202828897
+"questions/question-4.md" = 202828898
+"questions/question-5.md" = 202828899
+"questions/question-6.md" = 202828900
+"questions/question-7.md" = 202828901
+"questions/question-8.md" = 202828902
+"questions/question-8b.md" = 202828903
+"questions/question-9.md" = 202828904
+"questions/question-10.md" = 202828905
+"questions/question-11.md" = 202828906
+"questions/question-12.md" = 202828907
+"questions/question-13.md" = 202828908
+"questions/question-14.md" = 202828909
+"questions/question-15.md" = 202828910
+"questions/question-16.md" = 202828911
+"questions/question-17.md" = 202828912
+"questions/question-18.md" = 202828913
+"questions/question-19.md" = 202828914

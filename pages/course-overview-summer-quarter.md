@@ -4,9 +4,6 @@ published: true
 
 ---
 
-```{=comment-for-in-person-sections}
-THIS SHOULD NOT APPEAR
-``` 
 
 ## What is this? {#what-is-this heading="Overview of course"}
 
