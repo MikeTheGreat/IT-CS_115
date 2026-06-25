@@ -4,16 +4,16 @@ published: true
 
 ---
 
-You may notice that the [Gradebook]($../snippets/inline/CANVAS_COURSE_REFERENCE.md$/grades "Gradebook"){course-type="navigation"} for this course doesn\'t show you the sum total of your grades, nor your overall grade for this class.  Because of this you may be asking yourself \"How can I estimate my grade in this class, so that I can best judge my progress thus far this quarter?\"
+You may notice that the [Gradebook]($../../snippets/inline/CANVAS_COURSE_REFERENCE.md$/grades "Gradebook"){course-type="navigation"} for this course doesn\'t show you the sum total of your grades, nor your overall grade for this class.  Because of this you may be asking yourself \"How can I estimate my grade in this class, so that I can best judge my progress thus far this quarter?\"
 
 ## How To Estimate Your Overall Grade
 
 In order to estimate your grade you should do the following:
 
-1. Go through the list of your [Grades]($../snippets/inline/CANVAS_COURSE_REFERENCE.md$/grades "Grades"){course-type="navigation"} here in Canvas; you can see each grade individually.
+1. Go through the list of your [Grades]($../../snippets/inline/CANVAS_COURSE_REFERENCE.md$/grades "Grades"){course-type="navigation"} here in Canvas; you can see each grade individually.
 2. Copy each grade into a single place so you can work with all the numbers at once.\
    For example, copy the numbers into Microsoft Excel or Google Sheets.
-3. Go through [the syllabus]($../snippets/inline/CANVAS_COURSE_REFERENCE.md$/assignments/syllabus "the syllabus"){course-type="navigation"} and find the section that explains how the grading works (aka this is the \"grading schema\")
+3. Go through [the syllabus]($../../snippets/inline/CANVAS_COURSE_REFERENCE.md$/assignments/syllabus "the syllabus"){course-type="navigation"} and find the section that explains how the grading works (aka this is the \"grading schema\")
 4. Using your grades from Step 2 and the grading schema from step 3 you can now calculate your grades.
 5. \"But wait!\" you say.\
    \"There\'s a problem!\" you say.\
@@ -43,13 +43,13 @@ The point total isn\'t displayed because people keep mistaking the estimate that
    B. Once all the grades were gone Canvas didn't show me any grade in the 'Total' column. 
    
    C. - Screenshot showing this:\
-        ![Image showing grades for a student. The grades are all empty and there is a dash/hyphen in the \"Total\" column](../assets/Images/How%20to%20estimate%20your%20own%20grade/Canvas_NoGrades.png){.instructure_file_link .inline_disabled width="810" height="216"}
+        ![Image showing grades for a student. The grades are all empty and there is a dash/hyphen in the \"Total\" column](../../assets/Images/How%20to%20estimate%20your%20own%20grade/Canvas_NoGrades.png){.instructure_file_link .inline_disabled width="810" height="216"}
       - Notice the empty entry under the \"Total\" column
    
    D. If I go back and assign the student 2 points (out of 2 possible points) for the very first assignment ("Exercise 01 - Introduction and jGRASP Setup") then the total grade goes to 100% / 4.0.
    
    E. - Screenshot showing this:\
-        ![Image showing grades for a student. The grades are all empty except for a single 2 point quiz (which has 2 points out of 2). The \"Total\" column shows a 4.0 despite all the empty grades.](../assets/Images/How%20to%20estimate%20your%20own%20grade/Canvas_ASingleGrade.png){.instructure_file_link .inline_disabled width="810" height="220"}
+        ![Image showing grades for a student. The grades are all empty except for a single 2 point quiz (which has 2 points out of 2). The \"Total\" column shows a 4.0 despite all the empty grades.](../../assets/Images/How%20to%20estimate%20your%20own%20grade/Canvas_ASingleGrade.png){.instructure_file_link .inline_disabled width="810" height="220"}
       - Notice that Canvas is now showing 100% and a 4.0 under the \'Total\' column, [*[even though the student only has a grade for a single, 2 point quiz!]{style="text-decoration: underline;"}*]{style="background-color: #fff500;"}
    
    F. Based on this **it\'s clear that Canvas is [estimating ]{style="text-decoration: underline;"}the students' end-of-the-quarter grade (0.0, 4.0, etc) based on the percentage of points that they've gotten so far.**  This means that if you get a different percentage of the remaining points (between now and the end of the quarter) then you will get a grade that is different than what\'s shown here.

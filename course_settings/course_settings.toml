@@ -8,13 +8,13 @@ front_page = "pages/LandingPage.md"
 
 syllabus_course_summary = true
 
-#assignment_groups = [
-#     { title = "Bookkeeping", position = 1, group_weight = 0.0 },
-#     { title = "Exams", position = 2, group_weight = 50.0 },
-#     { title = "Labs", position = 3, group_weight = 30.0 },
-#     { title = "Imported Assignments", position = 4, group_weight = 0.0 },
-#     { title = "In-class Exercises", position = 5, group_weight = 20.0 },
-# ]
+assignment_groups = [
+    { title = "Homework Assignments", position = 1, group_weight = 30.0 },
+    { title = "Weekly Exercises", position = 2, group_weight = 15.0 },
+    { title = "Midterm Exam", position = 3, group_weight = 25.0 },
+    { title = "Final Exam", position = 4, group_weight = 25.0 },
+    { title = "Weekly Discussion Forums", position = 5, group_weight = 5.0 },
+]
 
 hide_final_grade = true
 
@@ -32,7 +32,7 @@ tab_configuration = [
     { label = "quizzes" },
     { label = "syllabus" },
     { label = "Zoom" },
-    { label = "Ally Course Accessibility Report", hidden = true },
+    { label = "Ally Course Accessibility Report" },
     { label = "Chat", hidden = true },
     { label = "conferences", hidden = true },
     { label = "collaborations", hidden = true },

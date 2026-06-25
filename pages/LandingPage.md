@@ -28,7 +28,7 @@ The exams will happen on Cascadia's campus.  We don't have an assigned room yet 
 
 - For each module please read all the material and do all the work.  
 
-- You can [find due dates in the Canvas Calendar](how-to-find-due-dates-using-canvas-calendar.md)
+- You can [find due dates in the Canvas Calendar](course_orientation/how-to-find-due-dates-using-canvas-calendar.md)
 
 ```{=comment-for-in-person-sections}
 ## **First Day of Class:**
@@ -63,10 +63,10 @@ You might want to check the [Calendar](https://cascadia.instructure.com/calendar
 
 - Office Hours (these are "Get Extra Help From the Teacher" Hours)
   
-  - Zoom Office Hours: Tuesdays and Thursdays from 11:30am till 1pm
-    ([See Zoom Details here](../pages/zoom-links.md "Zoom links")), 
+  - Zoom Office Hours: [OFFICE HOURS](../snippets/inline/office_hours.md)
+    ([See Zoom Details here](../pages/course_info/zoom-links.md "Zoom links")), 
   - Additional time is available by appointment - please send me a Canvas message!
-  - If you ever need to [find my physical office here are directions](office-hours.md "Office Hours")
+  - If you ever need to [find my physical office here are directions](course_info/office-hours.md "Office Hours")
 
 ```{=comment-for-in-person-sections}
 ### Programming Tutor Schedule at the Bock Learning Center

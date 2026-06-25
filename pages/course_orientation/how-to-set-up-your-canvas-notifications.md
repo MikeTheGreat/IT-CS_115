@@ -6,7 +6,7 @@ published: true
 
 First, you need to click/tap on \'Account\' in the left-most column (for Canvas overall, not the column that\'s specific to this course).  A panel will slide out with \'Notifications\' as the top link, as pictured here:
 
-![Image showing that you can click on the \'Account\' tab in the left-most column to open up the account menu. The Notfications link is the top link in the menu](../assets/Images/canvas_navigation/canvas_account_menu_open.png){style="display: block; margin-left: auto; margin-right: auto;" width="556" height="460"}
+![Image showing that you can click on the \'Account\' tab in the left-most column to open up the account menu. The Notfications link is the top link in the menu](../../assets/Images/canvas_navigation/canvas_account_menu_open.png){style="display: block; margin-left: auto; margin-right: auto;" width="556" height="460"}
 
 This will open up a page that lets you set up your notifications.  Some notes:
 
@@ -15,7 +15,7 @@ This will open up a page that lets you set up your notifications.  Some notes:
 
 The page will look something like this (note that details, such as when messages are delivered may be different for you)
 
-![Image showing the Notifications page in Canvas](../assets/Images/canvas_notifications/canvas_notification_settings_page.png){style="display: block; margin-left: auto; margin-right: auto;" width="1003" height="543"}
+![Image showing the Notifications page in Canvas](../../assets/Images/canvas_notifications/canvas_notification_settings_page.png){style="display: block; margin-left: auto; margin-right: auto;" width="1003" height="543"}
 
  
 
@@ -25,7 +25,7 @@ You can change a setting by clicking on the icon in that setting\'s row, under t
 -   You can also ask for a single message each day, which contains all the notifications for this category - this is the \"Daily Summary\" option
 -   I do NOT recommend the Weekly Summary - if there\'s an exam on Thursday (say) and the instructor posts an Announcement on Monday (say) then you might not get it until after the exam (currently Canvas is saying it\'ll send out weekly emails on Friday evenings, but in the past they\'ve sent emails Saturdays late at night).
 
-![Image showing the Notifications page in Canvas, with the drop-down menu for an item showing that for email notifications you can pick \"Notify immediately\", \"Daily Summary\", \"Weekly Summary\", or \"Notifications Off\"](../assets/Images/canvas_notifications/canvas_notification_frequency_dropdown.png){style="display: block; margin-left: auto; margin-right: auto;" width="1003" height="332"}
+![Image showing the Notifications page in Canvas, with the drop-down menu for an item showing that for email notifications you can pick \"Notify immediately\", \"Daily Summary\", \"Weekly Summary\", or \"Notifications Off\"](../../assets/Images/canvas_notifications/canvas_notification_frequency_dropdown.png){style="display: block; margin-left: auto; margin-right: auto;" width="1003" height="332"}
 
  
 
@@ -40,5 +40,5 @@ It is recommended that you set up Notifications to be \"Immediately\" for the fo
 
 Here\'s an image that shows where to click:
 
-![Image showing the Notifications page in Canvas, with circles around \'Due Date\', \'Announcement\', and \'Grading\'. There are arrows emphasizing where to click to change the notification settings](../assets/Images/canvas_notifications/canvas_notification_settings_highlighted.png){width="951" height="562"}
+![Image showing the Notifications page in Canvas, with circles around \'Due Date\', \'Announcement\', and \'Grading\'. There are arrows emphasizing where to click to change the notification settings](../../assets/Images/canvas_notifications/canvas_notification_settings_highlighted.png){width="951" height="562"}
 

@@ -7,11 +7,11 @@ I strongly recommend that you always make sure that you\'ve uploaded the correct
 Here\'s how you can check that you\'ve uploaded the correct homework file in Canvas.
 
 1.  **First, you go to the Assignment page here in Canvas and click on \'Start Assignment\':**\
-    ![](../assets/Images/How%20to%20make%20sure%20you%20uploaded%20the%20correct%20homework%20files/MakeSureYouUploadTheCorrectHomeworkFile_1.png){#239821515 role="presentation" width="776" height="284"}\
+    ![](../../assets/Images/How%20to%20make%20sure%20you%20uploaded%20the%20correct%20homework%20files/MakeSureYouUploadTheCorrectHomeworkFile_1.png){#239821515 role="presentation" width="776" height="284"}\
     \
     \
 2.  **Next, choose the files you want to upload, within the \'File Upload\' tab near the bottom of the Assignment:**\
-    ![Canvas file upload tab showing three Java homework files selected for upload](../assets/Images/canvas_assignments/canvas_assignment_file_upload.png){role="presentation" width="679" height="476"}\
+    ![Canvas file upload tab showing three Java homework files selected for upload](../../assets/Images/canvas_assignments/canvas_assignment_file_upload.png){role="presentation" width="679" height="476"}\
     \
 3.  **Once you\'ve uploaded all the files you want to upload you should then click on \'Submit Assignment\'**\
     \
@@ -21,7 +21,7 @@ Here\'s how you can check that you\'ve uploaded the correct homework file in Can
     [**At this point you should visually confirm that you\'ve handed in all the files that you need to hand in**]{style="background-color: #fff500;"} - if you\'re missing any of the files that contain any work that you want the instructor to grade then you should click on \'New Attempt\' and upload all the files again.\
     \
 5.  **Next, you should confirm that each file that you uploaded actually contains the work that you want the instructor to grade.**\
-    **[Do this by clicking on the download link for each and every file, downloading the file, opening the file, and confirming that the file contains the work you wanted to upload.]{style="background-color: #fff500;"}**![Canvas assignment page showing submitted homework files listed with download links](../assets/Images/canvas_assignments/canvas_exercise_submission_downloads.png){role="presentation" width="978" height="317"}**[\
+    **[Do this by clicking on the download link for each and every file, downloading the file, opening the file, and confirming that the file contains the work you wanted to upload.]{style="background-color: #fff500;"}**![Canvas assignment page showing submitted homework files listed with download links](../../assets/Images/canvas_assignments/canvas_exercise_submission_downloads.png){role="presentation" width="978" height="317"}**[\
     ]{style="background-color: #fff500;"}**
     A.  These links read \"Download \<filename\>\", so if you uploaded a file named \"Homework_File_1.java\" then you\'ll see a link named \"Download Homework_File_1.java\".
     B.  When you click on the link Canvas and your web browser will let you download the file.  \

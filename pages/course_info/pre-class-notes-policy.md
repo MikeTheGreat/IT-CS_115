@@ -2,7 +2,7 @@
 title: Class Notes Policy
 published: true
 ---
-## Class Notes Policy {#pre-class-notes-policy data-start="120" end="162"}
+## Class Notes Policy {#class-notes-policy}
 
 (Warning: During in-person courses these notes are due before class sessions so I used to call them **pre**-class notes. I'm now calling them just "class notes" )
 

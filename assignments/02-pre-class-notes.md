@@ -18,7 +18,7 @@ assignment_group_id: "Imported Assignments"
 
 ## Instructions
 
-Please review the [Pre-Class Notes Policy](../pages/pre-class-notes-policy.md "Pre-Class Notes Policy") for full instructions.
+Please review the [Pre-Class Notes Policy](../pages/course_info/pre-class-notes-policy.md "Pre-Class Notes Policy") for full instructions.
 
 ## Pre-Lecture Material
 
