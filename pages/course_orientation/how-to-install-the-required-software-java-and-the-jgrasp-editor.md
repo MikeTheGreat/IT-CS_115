@@ -2,6 +2,7 @@
 title: How To Install The Required Software (Java and the jGRASP editor)
 published: true
 ---
+
 In order to successfully complete this class, you\'ll need to have access to a program called jGRASP.
 
 If you have your own, personal computer with jGRASP installed (any version) you are encouraged to use that; if you don\'t, then you\'ll need to use the computers on Cascadia\'s campus.\

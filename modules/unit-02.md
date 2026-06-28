@@ -1,15 +1,10 @@
 ---
-title: Unit 02
+title: "Unit 02: Getting Started With Java and the jGRASP IDE"
 published: true
 require_sequential_progress: false
 ---
 
-## 02 Unit: Getting Started With Java and the jGRASP IDE
-
-- [How To Install The Required Software (Java and the jGRASP editor)](../pages/)
-- [01 Unit-Worksheet 1.docx](../assets/Lecture-Related/Unit-01/01-Unit-Worksheet-01.docx)
-
-```{=comment-for-in-person-sections}
-- [01 Two Truths & One Bug](../assignments/01-two-truths-and-one-bug.md)
-- [01 Unit-Worksheet 1 Solutions.docx](../assets/Lecture-Related/Unit-01/01-Unit-Worksheet-1-Solutions.docx) <!-- published="false" -->
-```
+- [Take notes on the readings and videos](../assignments/class_notes/02-class-notes.md)
+- [How To Install The Required Software (Java and the jGRASP editor)](../pages/course_orientation/how-to-install-the-required-software-java-and-the-jgrasp-editor.md)
+- [01 Worksheet 1](../assignments/worksheets/01-lecture-worksheet-1-review-the-program.md)
+- [01 Coding Exercise: Introduction and jGRASP Setup](../assignments/worksheets/01-lecture-worksheet-2-introduction-and-jgrasp-setup.md)

@@ -1,5 +1,5 @@
 ---
-title: 01 Syllabus Quiz
+title: "01 Syllabus Quiz"
 published: false
 quiz_type: assignment
 points_possible: 1.0

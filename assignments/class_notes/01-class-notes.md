@@ -18,17 +18,17 @@ assignment_group_id: "Weekly Exercises"
 
 ## Instructions
 
-Please review the [Class Notes Policy](../pages/course_info/pre-class-notes-policy.md "Class Notes Policy") for full instructions.
+Please review the [Class Notes Policy](../../pages/course_info/pre-class-notes-policy.md "Class Notes Policy") for full instructions.
 
 ## Material to read and/or watch and take hand-written notes on
 
 ### Reading
 
--   [01 Introduction.pptx](../assets/Lecture-Related/Unit-01/01-Introduction.pptx)
+-   [01 Introduction.pptx](../../assets/Lecture-Related/Unit-01/01-Introduction.pptx)
   -   There's no videos for this - instead, read through the slides and take notes on this
 
 ### Videos
-- [Course Policies: Highlights for Summer Quarter 👈 START HERE!! READ THIS AND WATCH THE VIDEOS!!! 👈](../pages/course-overview-summer-quarter.md)
+- [Course Policies: Highlights for Summer Quarter 👈 START HERE!! READ THIS AND WATCH THE VIDEOS!!! 👈](../../pages/course-overview-summer-quarter.md)
   - Watch the videos and take notes on them
   - There are a bunch of notes from the instructor on that page.  They may help you but you still have to write your own notes (so you'll remember them)
 

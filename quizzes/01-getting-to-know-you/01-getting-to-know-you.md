@@ -1,5 +1,5 @@
 ---
-title: "01 Getting to know you! :)"
+title: "01 Getting to know you! 😁"
 published: false
 quiz_type: graded_survey
 points_possible: 0.5

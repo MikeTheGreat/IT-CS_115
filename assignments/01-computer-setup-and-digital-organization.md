@@ -2,9 +2,6 @@
 title: "01 Computer Setup & Digital Organization"
 published: true
 points_possible: 1.0
-due_at: "2026-04-11T06:59:59"
-lock_at: "2026-04-11T16:00:00"
-unlock_at: "2026-03-30T18:00:00"
 submission_types: [online_upload]
 grading_type: pass_fail
 grader_comments_visible_to_graders: true

@@ -1,24 +1,21 @@
 ---
-title: "02 Pre-Class Notes (Chapters 1.4-1.7, 2.1-2.5)"
+title: "Unit 02 Notes (Chapters 1.4-1.7, 2.1-2.5)"
 published: true
 points_possible: 1.0
-due_at: "2026-04-01T18:00:00"
-lock_at: "2026-04-01T18:00:00"
 submission_types: [online_upload]
+allowed_extensions: ["pdf", "doc", "docx"] 
 grading_type: points
 grader_comments_visible_to_graders: true
 grader_names_visible_to_final_grader: true
 
-rubric: "Pre-Class Notes"
+rubric: "Class Notes"
 use_for_grading: true 
 
-assignment_group_id: "Imported Assignments"
-
 ---
-
 ## Instructions
 
-Please review the [Pre-Class Notes Policy](../pages/course_info/pre-class-notes-policy.md "Pre-Class Notes Policy") for full instructions.
+Please review the [first Class Notes assignment for full instructions.](./01-class-notes.md)
+
 
 ## Pre-Lecture Material
 
@@ -29,6 +26,10 @@ Please review the [Pre-Class Notes Policy](../pages/course_info/pre-class-notes-
 
 ### Videos
 
+- In addition to the videos below you should also watch (and take notes on) this video from your instructor which walks you through setting up your Java environment:
+- [How to download and install jGRASP (3 minutes)](https://cascadia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=22c07c75-914c-43c9-9cf6-b47700041703)
+- [How to download and run a Java program (including how to organize your files!) (8 minutes)](https://cascadia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7467139e-c6cc-49a7-b5ee-b47700330017)
+- [Walkthrough: "Introduction and jGRASP Setup" Coding Exercise (11 minutes)](https://cascadia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=68babde6-b62b-44f9-b15b-b47700356885)
 
 
 <iframe style="border: 1px solid #464646;" src="https://cascadia.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=d3123bb5-0107-4366-bac4-b30c000a0605&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=true&amp;showbrand=true&amp;captions=true&amp;interactivity=all" width="720" height="405" loading="lazy" allowfullscreen="allowfullscreen" allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Chapter 01 - 00 - Java Programs with println statements_default" data-mce-fragment="1"></iframe>
@@ -68,5 +69,6 @@ Please review the [Pre-Class Notes Policy](../pages/course_info/pre-class-notes-
 
 
 <iframe style="border: 1px solid #464646;" src="https://cascadia.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=a25b3777-c343-4ac7-a545-b30c0009f667&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=true&amp;showbrand=true&amp;captions=true&amp;interactivity=all" width="720" height="405" loading="lazy" allowfullscreen="allowfullscreen" allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Chapter 01 - 20 - Comments" data-mce-fragment="1"></iframe>
+
 
 

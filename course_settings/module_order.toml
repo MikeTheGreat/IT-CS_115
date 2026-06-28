@@ -1,7 +1,9 @@
 order = [
     "getting-started-in-it-cs-115.md",
+    "unit-01",
+    "unit-02",
+    "unit-midterm-exam",
 
-    # "lecture-1-chapter-1-course-orientation-and-introduction.md",
     # "lecture-2-chapter-2-introduction-to-variables-and-expressions.md",
     # "lecture-3-chapter-2-variables-expressions.md",
     # "lecture-4-chapter-3-users-input.md",
