@@ -64,7 +64,7 @@ You might want to check the [Calendar](https://cascadia.instructure.com/calendar
 - Office Hours (these are "Get Extra Help From the Teacher" Hours)
   
   - Zoom Office Hours: [OFFICE HOURS](../snippets/inline/office_hours.md)
-    ([See Zoom Details here](../pages/course_info/zoom-links.md "Zoom links")), 
+    ([See Zoom Details here](course_info/zoom-links.md "Zoom links")), 
   - Additional time is available by appointment - please send me a Canvas message!
   - If you ever need to [find my physical office here are directions](course_info/office-hours.md "Office Hours")
 

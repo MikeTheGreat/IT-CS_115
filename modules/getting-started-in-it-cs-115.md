@@ -7,7 +7,7 @@ require_sequential_progress: false
 - [Course Policies: Highlights for Summer Quarter 👈 START HERE!! READ THIS AND WATCH THE VIDEOS!!! 👈](../pages/course-overview-summer-quarter.md)
 - [Class Notes Policy](../pages/course_info/pre-class-notes-policy.md)
 
-- [Exam Reference Sheet / "Cheat sheet"](../assets/Exam-Related/IT-CS 115 Exam Reference Sheet.docx)
+- [Exam Reference Sheet / "Cheat sheet"](../assets/Exam-Related/it-cs-115-exam-reference-sheet.docx)
 
 ## Course Setup (Please read all these pages)
 

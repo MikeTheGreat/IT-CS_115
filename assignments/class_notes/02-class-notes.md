@@ -14,7 +14,7 @@ use_for_grading: true
 ---
 ## Instructions
 
-Please review the [first Class Notes assignment for full instructions.](./01-class-notes.md)
+Please review the [first Class Notes assignment for full instructions.](01-class-notes.md)
 
 
 ## Pre-Lecture Material
