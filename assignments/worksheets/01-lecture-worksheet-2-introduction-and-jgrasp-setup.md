@@ -8,11 +8,14 @@ grading_type: points
 grader_comments_visible_to_graders: true
 grader_names_visible_to_final_grader: true
 
+rubric: "Worksheets"
+use_for_grading: true 
+
 original_title: "01 Lecture Worksheet 2: Introduction and jGRASP Setup"
 ---
 ## Download Hello.java
 
-Download [Hello.java](../../assets/Lecture-Related/Unit-02/Hello.java "Hello.java") here!
+Download [Hello.java](../../assets/Lecture-Related/Unit-01-b/Hello.java "Hello.java") here!
 
 ## Do all your work in the `Hello.java` file
 Coding exercises are done by making

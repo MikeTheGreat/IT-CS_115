@@ -45,14 +45,21 @@ tab_configuration = [
 ]
 
 due_dates = [
+    # Unit 01
     { name = "01 Class Notes (for Unit 01)", unlock_at = "NONE", due_at = "2026-07-08T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
     { name = "01 Computer Setup & Digital Organization", unlock_at = "NONE", due_at = "2026-07-08T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
     { name = "01 Getting to know you! 😁", type = "quiz", unlock_at = "NONE", due_at = "2026-07-08T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
     { name = "01 Syllabus Quiz", type = "quiz", unlock_at = "NONE", due_at = "2026-07-08T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
 
-    { name = "Unit 02 Notes (Chapters 1.4-1.7, 2.1-2.5)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-10T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    # Unit 01, Part 2
+    { name = "01 Class Notes (Part 2)", unlock_at = "NONE", due_at = "2026-07-10T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
     { name = "01 Worksheet 1: Review The Program", unlock_at = "NONE", due_at = "2026-07-10T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
     { name = "01 Coding Exercise: Introduction and jGRASP Setup", unlock_at = "NONE", due_at = "2026-07-10T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+
+    # Unit 02
+    { name = "Unit 02 Notes (Chapters 1.4-1.7, 2.1-2.5)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "02 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+
 ]
 
 [default_post_policy]

@@ -1,11 +1,14 @@
 ---
 title: "01 Computer Setup & Digital Organization"
 published: true
-points_possible: 1.0
+points_possible: 2.0
 submission_types: [online_upload]
 grading_type: pass_fail
 grader_comments_visible_to_graders: true
 grader_names_visible_to_final_grader: true
+
+rubric: "Worksheets"
+use_for_grading: true 
 ---
 ## Why We're Doing This {#why-were-doing-this data-start="388" end="413"}
 

@@ -26,11 +26,17 @@ Please review the [first Class Notes assignment for full instructions.](./01-cla
 
 ### Videos
 
-- In addition to the videos below you should also watch (and take notes on) this video from your instructor which walks you through setting up your Java environment:
-- [How to download and install jGRASP (3 minutes)](https://cascadia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=22c07c75-914c-43c9-9cf6-b47700041703)
-- [How to download and run a Java program (including how to organize your files!) (8 minutes)](https://cascadia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7467139e-c6cc-49a7-b5ee-b47700330017)
-- [Walkthrough: "Introduction and jGRASP Setup" Coding Exercise (11 minutes)](https://cascadia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=68babde6-b62b-44f9-b15b-b47700356885)
+### In preparation for the "code tracing" exercises in the second worksheet please watch this video:
 
+- [Code Tracing Demonstration - Worked Example (5 minutes)](https://cascadia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a5dd113b-e518-4d00-be3f-b47701721c67)
+- Make sure that you also take hand-written notes on [this page describing important points to remember while tracing a program](../../pages/unit-related/unit-02/key-points-to-note-from-the-trace.md)
+
+### In preparation for the "find and fix errors" exercises in the second worksheet please watch these videos:
+
+- [How to find and fix errors: the mechanical process of filling in the table (6 minutes)](https://cascadia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1d294ed8-ebd2-4c0a-b3b7-b4780033818c)
+- [Finding and fixing errors - strategies (7 minutes)](https://cascadia.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3f6e4eae-2d2c-472b-8115-b47800355ce6)
+
+### Make sure that you also watch (and take notes on) the following videos:
 
 <iframe style="border: 1px solid #464646;" src="https://cascadia.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=d3123bb5-0107-4366-bac4-b30c000a0605&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=true&amp;showbrand=true&amp;captions=true&amp;interactivity=all" width="720" height="405" loading="lazy" allowfullscreen="allowfullscreen" allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="Chapter 01 - 00 - Java Programs with println statements_default" data-mce-fragment="1"></iframe>
 
