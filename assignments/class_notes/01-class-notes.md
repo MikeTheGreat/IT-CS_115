@@ -2,7 +2,6 @@
 title: "01 Class Notes (for Unit 01)"
 published: true
 points_possible: 2.0
-due_at: "2026-07-13T18:00:00"
 submission_types: [online_upload]
 allowed_extensions: ["pdf", "doc", "docx"] 
 grading_type: points

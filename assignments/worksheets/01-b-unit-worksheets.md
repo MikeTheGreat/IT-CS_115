@@ -11,6 +11,8 @@ grader_names_visible_to_final_grader: true
 rubric: "Worksheets"
 use_for_grading: true 
 
+assignment_group_id: "Weekly Exercises"
+
 original_title: "01 Lecture Worksheet 2: Introduction and jGRASP Setup"
 ---
 ## Download Hello.java

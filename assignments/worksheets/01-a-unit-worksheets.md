@@ -11,6 +11,8 @@ grader_names_visible_to_final_grader: true
 rubric: "Worksheets"
 use_for_grading: true 
 
+assignment_group_id: "Weekly Exercises"
+
 ---
 ## Download The Worksheet
 

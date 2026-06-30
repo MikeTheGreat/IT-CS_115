@@ -1,7 +1,7 @@
 ---
 title: "Unit 02 Notes (Chapters 1.4-1.7, 2.1-2.5)"
 published: true
-points_possible: 1.0
+points_possible: 2.0
 submission_types: [online_upload]
 allowed_extensions: ["pdf", "doc", "docx"] 
 grading_type: points
@@ -11,13 +11,16 @@ grader_names_visible_to_final_grader: true
 rubric: "Class Notes"
 use_for_grading: true 
 
+assignment_group_id: "Weekly Exercises"
+
+
 ---
 ## Instructions
 
 Please review the [first Class Notes assignment for full instructions.](01-class-notes.md)
 
 
-## Pre-Lecture Material
+## Unit Material
 
 ### Reading
 

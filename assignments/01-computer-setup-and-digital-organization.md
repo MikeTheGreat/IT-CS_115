@@ -9,6 +9,9 @@ grader_names_visible_to_final_grader: true
 
 rubric: "Worksheets"
 use_for_grading: true 
+
+assignment_group_id: "Weekly Exercises"
+
 ---
 ## Why We're Doing This {#why-were-doing-this data-start="388" end="413"}
 

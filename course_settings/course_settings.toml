@@ -1,10 +1,10 @@
 title = "IT-CS115 01 4945 - W26 - Introduction to Programming"
 #course_code = "IT-CS115 01 4945"
 
-dashboard_image = "assets/course_settings/IT-CS_115_dashboard_logo.png"
+dashboard_image = "assets/course_settings/it-cs_115_dashboard_logo.png"
 
 default_view = "wiki"
-front_page = "pages/LandingPage.md"
+front_page = "pages/landing-page.md"
 
 syllabus_course_summary = true
 
@@ -59,6 +59,57 @@ due_dates = [
     # Unit 02
     { name = "Unit 02 Notes (Chapters 1.4-1.7, 2.1-2.5)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
     { name = "02 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+
+    # Unit 03
+    { name = "Unit 03 Notes (Chapters 2.6-2.11)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "03 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+
+    # Unit 04
+    { name = "Unit 04 Notes (Chapters 3.1-3.11)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "04 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+
+    # Unit 05
+    { name = "Unit 05 Class Notes (Chapters 5.1-5.3)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "05 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+
+    # Unit 06
+    { name = "Unit 06 Notes (Chapters 5.9-5.10)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "06 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+
+    # Unit 07
+    { name = "Unit 07 Notes (Chapters 5.5-5.7, 5.11)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "07 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+
+    # Unit 08
+    { name = "Unit 08 Notes (Chapters 6.5, 6.7-6.10)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "08 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+
+    # Unit 09
+    { name = "Unit 09 Notes (Chapters 6.1-6.2)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "09 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+
+    # Unit 10
+    { name = "Unit 10 Notes (Chapters 6.3, 6.6)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "10 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+
+    # Unit 11
+    { name = "11 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+
+    # Unit 12
+    { name = "Unit 12 Notes (Chapters 4.1-4.4)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "12 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+
+    # Unit 13
+    { name = "13 Class Notes (Chapter 4.5-4.7)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+
+    # Unit 14
+    { name = "14 Class Notes (Chapter 4.8-4.10)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+
+    # Unit 15
+    { name = "15 Class Notes (Chapter 7.1-7.5)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+
+    # Unit 16
+    { name = "16 Class Notes (Chapter 6.4/Review)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-12T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
 
 ]
 

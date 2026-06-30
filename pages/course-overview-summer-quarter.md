@@ -46,7 +46,7 @@ published: true
 
 - Discussion Forums:
   - Opportunity for questions and peer interaction.
-- Pre-Class Notes
+- Class Notes
   - Watch the assigned videos and/or do the assigned reading while taking hand-written notes about them 
 - Coding Exercises
   - Make sure you\'ve used each topic before you\'re asked to apply them in a more open-ended format
@@ -56,8 +56,9 @@ published: true
   - Make sure it\'s actually you who knows this stuff
   - Checking for specific skills and topics
 
-#### Pre-Class Notes {#pre-class-notes heading="Weekly Exercises"}
+#### Class Notes {#pre-class-notes heading="Weekly Exercises"}
 
+- (Note that these used to be called "Pre-Class Notes" - please let the instructor know if you find anything in the course that names them that)
 - Take HAND-WRITTEN notes while watching the assigned videos and/or read the assigned reading
   - 115 will have some videos, and reading some short chapters in the free, online textbook
   - 142 and 143 are mostly videos
