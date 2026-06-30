@@ -1,19 +1,8 @@
 ---
 title: "14 Class Notes (Chapter 4.8-4.10)"
-published: true
-points_possible: 2.0
-submission_types: [online_upload]
-allowed_extensions: ["pdf", "doc", "docx"] 
-grading_type: points
-grader_comments_visible_to_graders: true
-grader_names_visible_to_final_grader: true
-
-rubric: "Class Notes"
-use_for_grading: true 
-
-assignment_group_id: "Weekly Exercises"
-
 ---
+[PASTE_SNIPPET_INTO_FRONTMATTER](../../snippets/frontmatter/class_notes_assignment.yaml)
+
 ## Instructions
 
 Please review the [Class Notes Policy](../../pages/course_info/pre-class-notes-policy.md "Class Notes Policy"){course-type="wikiPages" published="false" api-endpoint="https://cascadia.instructure.com/api/v1/courses/2685280/pages/pre-class-notes-policy" api-returntype="Page"} for full instructions.

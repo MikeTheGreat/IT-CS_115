@@ -1,18 +1,8 @@
 ---
 title: "01 Computer Setup & Digital Organization"
-published: true
-points_possible: 2.0
-submission_types: [online_upload]
-grading_type: pass_fail
-grader_comments_visible_to_graders: true
-grader_names_visible_to_final_grader: true
-
-rubric: "Worksheets"
-use_for_grading: true 
-
-assignment_group_id: "Weekly Exercises"
-
 ---
+[PASTE_SNIPPET_INTO_FRONTMATTER](../snippets/frontmatter/worksheet_assignment.yaml)
+
 ## Why We're Doing This {#why-were-doing-this data-start="388" end="413"}
 
 If you are new to college, new to using a laptop for school, or feel nervous about technology, you are **not alone**. Many students arrive at college without being shown how to set up their computer or organize digital files---and no one should be expected to already know this.
@@ -139,11 +129,19 @@ You will need screenshots to complete this assignment. Follow the instructions f
 2.  Screenshot saves to Desktop.
 3.  Move it to **OneDrive**.
 
+### Put your screenshots into a single .PDF file
+As you take each screenshot please paste it into a document (Word Doc, Google Doc, Apple Pages, etc)
+and write a brief caption/explanation beneath the image explaining what the image is.  (Normally it's 
+pretty clear what the screenshot is but if it's not then the caption will help your teacher understand
+what you were trying to do.)
+
+When you go to upload your file you should save your document in .PDF format.  Look for a "File > Export" or "File > Save As" menu option to do this.
+
 ------------------------------------------------------------------------
 
 ## Submission Requirements: Screenshot Proofs {#submission-requirements-screenshot-proofs data-start="5203" end="5250"}
 
-To complete this assignment, submit **screenshots** showing each setup task. Screenshots **prove setup**, not skill.
+To complete this assignment, submit a PDF file containing the **screenshots** showing each setup task. Screenshots **prove setup**, not skill.
 
 ### What to Submit {#what-to-submit data-start="5372" end="5392"}
 

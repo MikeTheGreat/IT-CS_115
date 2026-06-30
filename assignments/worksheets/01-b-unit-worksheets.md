@@ -1,20 +1,9 @@
 ---
 title: "01 Coding Exercise: Introduction and jGRASP Setup"
-published: true
-points_possible: 2.0
-submission_types: [online_upload]
-allowed_extensions: ["java"] 
-grading_type: points
-grader_comments_visible_to_graders: true
-grader_names_visible_to_final_grader: true
-
-rubric: "Worksheets"
-use_for_grading: true 
-
-assignment_group_id: "Weekly Exercises"
-
 original_title: "01 Lecture Worksheet 2: Introduction and jGRASP Setup"
 ---
+[PASTE_SNIPPET_INTO_FRONTMATTER](../../snippets/frontmatter/worksheet_assignment.yaml)
+
 ## Download Hello.java
 
 Download [Hello.java](../../assets/lecture-related/unit-01-b/hello.java "Hello.java") here!

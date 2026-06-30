@@ -1,19 +1,8 @@
 ---
 title: "01 Worksheet 1: Review The Program"
-published: true
-points_possible: 2.0
-submission_types: [online_upload]
-allowed_extensions: ["pdf", "doc", "docx"] 
-grading_type: points
-grader_comments_visible_to_graders: true
-grader_names_visible_to_final_grader: true
-
-rubric: "Worksheets"
-use_for_grading: true 
-
-assignment_group_id: "Weekly Exercises"
-
 ---
+[PASTE_SNIPPET_INTO_FRONTMATTER](../../snippets/frontmatter/worksheet_assignment.yaml)
+
 ## Download The Worksheet
 
 Download [the worksheet here!](../../assets/lecture-related/unit-01/01-unit-worksheet-01.docx)

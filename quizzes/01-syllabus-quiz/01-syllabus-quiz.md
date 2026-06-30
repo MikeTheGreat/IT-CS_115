@@ -1,6 +1,6 @@
 ---
 title: "01 Syllabus Quiz"
-published: false
+published: true
 quiz_type: assignment
 points_possible: 1.0
 allowed_attempts: -1

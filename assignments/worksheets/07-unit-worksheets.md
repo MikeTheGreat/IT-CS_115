@@ -1,19 +1,9 @@
 ---
 title: "07 Worksheets"
-published: true
-points_possible: 2.0
-submission_types: [online_upload]
-allowed_extensions: ["pdf", "doc", "docx"] 
-grading_type: points
-grader_comments_visible_to_graders: true
-grader_names_visible_to_final_grader: true
-
-rubric: "Worksheets"
-use_for_grading: true 
-
-assignment_group_id: "Weekly Exercises"
-
 ---
+[PASTE_SNIPPET_INTO_FRONTMATTER](../../snippets/frontmatter/worksheet_assignment.yaml)
+
+
 ## Download And Work Through The Worksheets
 
 Make sure that you download and fill out **both of these worksheets**

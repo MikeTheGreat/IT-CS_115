@@ -1,20 +1,8 @@
 ---
 title: "Unit 02 Notes (Chapters 1.4-1.7, 2.1-2.5)"
-published: true
-points_possible: 2.0
-submission_types: [online_upload]
-allowed_extensions: ["pdf", "doc", "docx"] 
-grading_type: points
-grader_comments_visible_to_graders: true
-grader_names_visible_to_final_grader: true
-
-rubric: "Class Notes"
-use_for_grading: true 
-
-assignment_group_id: "Weekly Exercises"
-
-
 ---
+[PASTE_SNIPPET_INTO_FRONTMATTER](../../snippets/frontmatter/class_notes_assignment.yaml)
+
 ## Instructions
 
 Please review the [first Class Notes assignment for full instructions.](01-class-notes.md)

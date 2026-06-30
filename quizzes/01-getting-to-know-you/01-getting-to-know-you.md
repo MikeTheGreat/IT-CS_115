@@ -1,6 +1,6 @@
 ---
 title: "01 Getting to know you! 😁"
-published: false
+published: true
 quiz_type: graded_survey
 points_possible: 0.5
 allowed_attempts: -1
