@@ -8,23 +8,23 @@ This page will explain how to find and view the Canvas Calendar, and how to remo
 
 You can find a link to the Canvas Calendar in the left-most column of icons here in Canvas:
 
-![image.png](../../assets/Images/canvas_navigation/canvas_course_navigation_sidebar.png)
+![image.png](../../assets/images/canvas_navigation/canvas_course_navigation_sidebar.png)
 
 At this point you\'re probably looking at a wall of appointments, and probably feeling a bit overwhelmed:
 
-![image.png](../../assets/Images/canvas_calendar/canvas_calendar_month_view.png){style="display: block; margin-left: auto; margin-right: auto;" width="543" height="236"}
+![image.png](../../assets/images/canvas_calendar/canvas_calendar_month_view.png){style="display: block; margin-left: auto; margin-right: auto;" width="543" height="236"}
 
 At this point the key is step to [**making the calendar useful to you is to turn off all the calendars except the one for this class**]{style="text-decoration: underline;"}. 
 
 You can do that by clicking on the small, color-coded squares in the bottom-right panel.  
 
-![image.png](../../assets/Images/canvas_calendar/canvas_calendar_course_list.png){style="display: block; margin-left: auto; margin-right: auto;"}
+![image.png](../../assets/images/canvas_calendar/canvas_calendar_course_list.png){style="display: block; margin-left: auto; margin-right: auto;"}
 
  
 
 Once you\'ve done that you should see only the due dates for this one class (and any events the instructor has added (no promises, but sometimes I add events for days where there\'s no classes because of holidays or in-service days, etc). For example:
 
-![image.png](../../assets/Images/canvas_calendar/canvas_calendar_assignments_view.png){style="display: block; margin-left: auto; margin-right: auto;"}(Your calendar may look different than mine - Canvas crosses out Assignments that I\'ve finished grading which is why some of the Assignments are crossed out)
+![image.png](../../assets/images/canvas_calendar/canvas_calendar_assignments_view.png){style="display: block; margin-left: auto; margin-right: auto;"}(Your calendar may look different than mine - Canvas crosses out Assignments that I\'ve finished grading which is why some of the Assignments are crossed out)
 
  
 

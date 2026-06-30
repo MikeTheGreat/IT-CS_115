@@ -14,7 +14,7 @@ use_for_grading: true
 ---
 ## Download The Worksheet
 
-Download [the worksheet here!](../../assets/Lecture-Related/Unit-01/01-Unit-Worksheet-01.docx)
+Download [the worksheet here!](../../assets/lecture-related/unit-01/01-unit-worksheet-01.docx)
 
 ## Hand-write your answers
 

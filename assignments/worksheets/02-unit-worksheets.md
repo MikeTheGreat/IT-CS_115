@@ -16,10 +16,10 @@ use_for_grading: true
 
 Make sure that you download and fill out **both of these worksheets**
 
-- [02 Unit Worksheet 1.docx](../../assets/Lecture-Related/Unit-02/02-Unit-Worksheet-1.docx)
+- [02 Unit Worksheet 1.docx](../../assets/lecture-related/unit-02/02-unit-worksheet-1.docx)
 
-- [02 Unit Worksheet 2.docx](../../assets/Lecture-Related/Unit-02/02-Unit-Worksheet-2.docx)
-  - For the "Find And Fix" exercise you will need this file: [FindAndFix_VariablesAndExpressions.java](../../assets/Lecture-Related/Unit-02/FindAndFix_VariablesAndExpressions.java)
+- [02 Unit Worksheet 2.docx](../../assets/lecture-related/unit-02/02-unit-worksheet-2.docx)
+  - For the "Find And Fix" exercise you will need this file: [FindAndFix_VariablesAndExpressions.java](../../assets/lecture-related/unit-02/findandfix_variablesandexpressions.java)
     - It's similar to the one in the video demonstrating how to trace (they both start out the same) but there's also additional code to trace.
 
 

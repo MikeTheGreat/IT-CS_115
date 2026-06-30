@@ -19,7 +19,7 @@ Please come to student office hours if you need help, have questions, and or jus
 
 - My office is [OFFICE NUMBER](../../snippets/inline/office_number.md)
 - You can choose to drop by in person, or you can join my Zoom call ([See Zoom Details here](zoom-links.md))
-- ![Map of campus for Cascadia College and UW-Bothell. There\'s a circle with additional arrows highlighting building \"CC1\". I don\'t know how to describe the map in words, so here\'s the address to copy into a mapping app: 18345 Campus Way NE, Bothell, WA, 98011](../../assets/Images/course_orientation/campus_map_cc2_emphasized.png)
-- ![Map of the second floor of CC2 (Note: CC1 and CC2 are actually two parts of the same building - CC1 is the southern two-thirds of the building) Arrows highlight the instructor\'s office: CC1-251](../../assets/Images/course_orientation/building_map_emphasizing_my_office_location.png)
+- ![Map of campus for Cascadia College and UW-Bothell. There\'s a circle with additional arrows highlighting building \"CC1\". I don\'t know how to describe the map in words, so here\'s the address to copy into a mapping app: 18345 Campus Way NE, Bothell, WA, 98011](../../assets/images/course_orientation/campus_map_cc2_emphasized.png)
+- ![Map of the second floor of CC2 (Note: CC1 and CC2 are actually two parts of the same building - CC1 is the southern two-thirds of the building) Arrows highlight the instructor\'s office: CC1-251](../../assets/images/course_orientation/building_map_emphasizing_my_office_location.png)
 
  

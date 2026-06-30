@@ -24,7 +24,7 @@ Please review the [Class Notes Policy](../../pages/course_info/pre-class-notes-p
 
 ### Reading
 
--   [01 Introduction.pptx](../../assets/Lecture-Related/Unit-01/01-Introduction.pptx)
+-   [01 Introduction.pptx](../../assets/lecture-related/unit-01/01-introduction.pptx)
   -   There's no videos for this - instead, read through the slides and take notes on this
 
 ### Videos

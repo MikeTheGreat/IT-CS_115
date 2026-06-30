@@ -15,7 +15,7 @@ original_title: "01 Lecture Worksheet 2: Introduction and jGRASP Setup"
 ---
 ## Download Hello.java
 
-Download [Hello.java](../../assets/Lecture-Related/Unit-01-b/Hello.java "Hello.java") here!
+Download [Hello.java](../../assets/lecture-related/unit-01-b/hello.java "Hello.java") here!
 
 ## Do all your work in the `Hello.java` file
 Coding exercises are done by making

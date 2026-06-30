@@ -43,13 +43,13 @@ The point total isn\'t displayed because people keep mistaking the estimate that
    B. Once all the grades were gone Canvas didn't show me any grade in the 'Total' column. 
    
    C. - Screenshot showing this:\
-        ![Image showing grades for a student. The grades are all empty and there is a dash/hyphen in the \"Total\" column](../../assets/Images/How%20to%20estimate%20your%20own%20grade/Canvas_NoGrades.png){.instructure_file_link .inline_disabled width="810" height="216"}
+        ![Image showing grades for a student. The grades are all empty and there is a dash/hyphen in the \"Total\" column](../../assets/images/how-to-estimate-your-own-grade/canvas_nogrades.png){.instructure_file_link .inline_disabled width="810" height="216"}
       - Notice the empty entry under the \"Total\" column
    
    D. If I go back and assign the student 2 points (out of 2 possible points) for the very first assignment ("Exercise 01 - Introduction and jGRASP Setup") then the total grade goes to 100% / 4.0.
    
    E. - Screenshot showing this:\
-        ![Image showing grades for a student. The grades are all empty except for a single 2 point quiz (which has 2 points out of 2). The \"Total\" column shows a 4.0 despite all the empty grades.](../../assets/Images/How%20to%20estimate%20your%20own%20grade/Canvas_ASingleGrade.png){.instructure_file_link .inline_disabled width="810" height="220"}
+        ![Image showing grades for a student. The grades are all empty except for a single 2 point quiz (which has 2 points out of 2). The \"Total\" column shows a 4.0 despite all the empty grades.](../../assets/images/how-to-estimate-your-own-grade/canvas_asinglegrade.png){.instructure_file_link .inline_disabled width="810" height="220"}
       - Notice that Canvas is now showing 100% and a 4.0 under the \'Total\' column, [*[even though the student only has a grade for a single, 2 point quiz!]{style="text-decoration: underline;"}*]{style="background-color: #fff500;"}
    
    F. Based on this **it\'s clear that Canvas is [estimating ]{style="text-decoration: underline;"}the students' end-of-the-quarter grade (0.0, 4.0, etc) based on the percentage of points that they've gotten so far.**  This means that if you get a different percentage of the remaining points (between now and the end of the quarter) then you will get a grade that is different than what\'s shown here.

@@ -18,7 +18,7 @@ Here are instructions for your various options:
         \
     B.  To install jGRASP on Mac, Windows or Linux, go to [https://spider.eng.auburn.edu/user-cgi/grasp/grasp.pl?;dl=download_jgrasp.html](https://spider.eng.auburn.edu/user-cgi/grasp/grasp.pl?;dl=download_jgrasp.html){target="_blank"}  and look for a box containing download links for jGRASP that is \"Bundled with OpenJDK\".  There are a bunch of options and you specifically want the one with OpenJDK that is NOT a Beta.\
         Here\'s a picture of the one you want to use as of the time of this writing.  Note that the version numbers will change soon (the program is updated pretty frequently (which is good, even if it\'s inconvenient for us :)  ) ). \
-        ![jGRASP_Use_The_One_With_Bundled_OpenJDK.png](../../assets/Images/jGRASP%20Walkthrough/jGRASP_Use_The_One_With_Bundled_OpenJDK.png)\
+        ![jGRASP_Use_The_One_With_Bundled_OpenJDK.png](../../assets/images/jgrasp-walkthrough/jgrasp_use_the_one_with_bundled_openjdk.png)\
         \
         i.  **Don\'t worry about the version number of jGRASP - you can use any version of jGRASP that you can find and it\'ll work just fine.\
             **

@@ -2,7 +2,7 @@
 published: true
 ---
 
-![](../assets/course_settings/ITCS_115_Banner_Green.svg)\
+![](../assets/course_settings/itcs_115_banner_green.svg)\
 
 Welcome to [FULL COURSE NAME](../snippets/inline/course_name_full.md), here in this [QUARTER](../snippets/inline/quarter_name.md)
 
