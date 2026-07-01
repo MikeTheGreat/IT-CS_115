@@ -1,5 +1,6 @@
 ---
 title: Assignment 3 - ART Collab - Plan For Success
+published: false
 ---
 [PASTE_SNIPPET_INTO_FRONTMATTER](../../snippets/frontmatter/homework_assignment.yaml)
 

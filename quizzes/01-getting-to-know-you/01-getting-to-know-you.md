@@ -6,6 +6,8 @@ points_possible: 0.5
 allowed_attempts: -1
 shuffle_answers: false
 show_correct_answers: true
+
+assignment_group_id: "Weekly Exercises"
 ---
 
 1. [Question](questions/question.md)
@@ -17,3 +19,4 @@ show_correct_answers: true
 7. [Question 6](questions/question-6.md)
 8. [Question 7](questions/question-7.md)
 9. [Question 8](questions/question-8.md)
+

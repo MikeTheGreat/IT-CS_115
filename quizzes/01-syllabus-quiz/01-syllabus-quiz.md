@@ -6,6 +6,8 @@ points_possible: 1.0
 allowed_attempts: -1
 shuffle_answers: true
 show_correct_answers: false
+
+assignment_group_id: "Weekly Exercises"
 ---
 
 This syllabus quiz will test your knowledge on policies from the syllabus. Please retake it as many times as you need to until you score 100%. Please read through the  [Syllabus]($../../snippets/inline/CANVAS_COURSE_REFERENCE.md$/assignments/syllabus "Syllabus") before starting.
@@ -37,3 +39,4 @@ This syllabus quiz will test your knowledge on policies from the syllabus. Pleas
 12. [Question 17](questions/question-17.md)
 13. [Question 18](questions/question-18.md)
 14. [Question 19](questions/question-19.md)
+
