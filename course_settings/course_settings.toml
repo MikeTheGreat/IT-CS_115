@@ -69,20 +69,20 @@ due_dates = [
     { name = "04 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-16T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
 
     # Unit 05
-    { name = "Unit 05 Class Notes (Chapters 5.1-5.3)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-18T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
-    { name = "05 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-18T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "Unit 05 Class Notes (Chapters 5.1-5.3)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-19T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "05 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-19T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
 
     # Unit 06
-    { name = "Unit 06 Notes (Chapters 5.9-5.10)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-20T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
-    { name = "06 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-20T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "Unit 06 Notes (Chapters 5.9-5.10)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-21T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "06 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-21T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
 
     # Unit 07
-    { name = "Unit 07 Notes (Chapters 5.5-5.7, 5.11)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-22T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
-    { name = "07 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-22T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "Unit 07 Notes (Chapters 5.5-5.7, 5.11)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-23T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "07 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-23T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
 
     # Unit 08
-    { name = "Unit 08 Notes (Chapters 6.5, 6.7-6.10)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-24T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
-    { name = "08 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-24T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "Unit 08 Notes (Chapters 6.5, 6.7-6.10)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-27T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "08 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-27T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
 
     # Unit 09
     { name = "Unit 09 Notes (Chapters 6.1-6.2)", type = "assignment", unlock_at = "NONE", due_at = "2026-08-02T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
