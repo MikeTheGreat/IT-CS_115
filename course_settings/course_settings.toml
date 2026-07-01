@@ -1,5 +1,4 @@
 title = "IT-CS115 01 4945 - W26 - Introduction to Programming"
-#course_code = "IT-CS115 01 4945"
 
 dashboard_image = "assets/course_settings/it-cs_115_dashboard_logo.png"
 
@@ -72,17 +71,26 @@ due_dates = [
     { name = "Unit 05 Class Notes (Chapters 5.1-5.3)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-19T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
     { name = "05 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-19T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
 
+    # Assignment 1
+    { name = "Assignment 1 - User's Input - Opportunity #1", type = "assignment", unlock_at = "NONE", due_at = "2026-07-21T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+
     # Unit 06
-    { name = "Unit 06 Notes (Chapters 5.9-5.10)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-21T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
-    { name = "06 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-21T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "Unit 06 Notes (Chapters 5.9-5.10)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-22T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "06 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-22T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
 
     # Unit 07
-    { name = "Unit 07 Notes (Chapters 5.5-5.7, 5.11)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-23T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
-    { name = "07 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-23T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "Unit 07 Notes (Chapters 5.5-5.7, 5.11)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-24T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "07 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-24T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
 
     # Unit 08
-    { name = "Unit 08 Notes (Chapters 6.5, 6.7-6.10)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-27T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
-    { name = "08 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-27T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "Unit 08 Notes (Chapters 6.5, 6.7-6.10)", type = "assignment", unlock_at = "NONE", due_at = "2026-07-26T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "08 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-07-26T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+
+    # Assignment 2
+    { name = "Assignment 2 - Employees Hourly Wages - Opportunity #1", type = "assignment", unlock_at = "NONE", due_at = "2026-07-28T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+
+    ############### Midterm Exam ##############################################
+    { name = "Midterm Exam: This is the Canvas entry for the In-Person Exam", type = "assignment", unlock_at = "NONE", due_at = "2026-07-30T06:00:00", lock_at = "CREATE_NONE_THEN_KEEP" },
 
     # Unit 09
     { name = "Unit 09 Notes (Chapters 6.1-6.2)", type = "assignment", unlock_at = "NONE", due_at = "2026-08-02T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
@@ -92,8 +100,11 @@ due_dates = [
     { name = "Unit 10 Notes (Chapters 6.3, 6.6)", type = "assignment", unlock_at = "NONE", due_at = "2026-08-05T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
     { name = "10 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-08-05T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
 
+    # Assignment 3
+    { name = "Assignment 3 - Grade Calculator - Opportunity #1", type = "assignment", unlock_at = "NONE", due_at = "2026-08-07T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+
     # Unit 11
-    { name = "11 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-08-08T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "11 Worksheets", type = "assignment", unlock_at = "NONE", due_at = "2026-08-09T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
 
     # Unit 12
     { name = "Unit 12 Notes (Chapters 4.1-4.4)", type = "assignment", unlock_at = "NONE", due_at = "2026-08-11T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
@@ -105,13 +116,39 @@ due_dates = [
     # Unit 14
     { name = "14 Class Notes (Chapter 4.8-4.10)", type = "assignment", unlock_at = "NONE", due_at = "2026-08-17T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
 
+    # Assignment 4
+    { name = "Assignment 4 - College Admission - Opportunity #1", type = "assignment", unlock_at = "NONE", due_at = "2026-08-19T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+
     # Unit 15
-    { name = "15 Class Notes (Chapter 7.1-7.5)", type = "assignment", unlock_at = "NONE", due_at = "2026-08-20T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "15 Class Notes (Chapter 7.1-7.5)", type = "assignment", unlock_at = "NONE", due_at = "2026-08-21T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
+
 
     # Unit 16
     { name = "16 Class Notes (Chapter 6.4/Review)", type = "assignment", unlock_at = "NONE", due_at = "2026-08-23T11:59:59", lock_at = "CREATE_NONE_THEN_KEEP" },
 
+    # A4 - after I18
+
+    ############### Final Exam ################################################
+    { name = "Final Exam: This is the Canvas entry for the In-Person Exam", type = "assignment", unlock_at = "NONE", due_at = "2026-08-27T06:00:00", lock_at = "CREATE_NONE_THEN_KEEP" },
+
+    ############### Stuff to clear ############################################
+    # Assignment revisions:
+    { name = "Assignment 1 - User's Input - Opportunity #2", type = "assignment", unlock_at = "CREATE_NONE_THEN_KEEP", due_at = "CREATE_NONE_THEN_KEEP", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "Assignment 2 - Employees Hourly Wages - Opportunity #2", type = "assignment", unlock_at = "CREATE_NONE_THEN_KEEP", due_at = "CREATE_NONE_THEN_KEEP", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "Assignment 3 - Grade Calculator - Opportunity #2", type = "assignment", unlock_at = "CREATE_NONE_THEN_KEEP", due_at = "CREATE_NONE_THEN_KEEP", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "Assignment 4 - College Admission - Opportunity #2", type = "assignment", unlock_at = "CREATE_NONE_THEN_KEEP", due_at = "CREATE_NONE_THEN_KEEP", lock_at = "CREATE_NONE_THEN_KEEP" },
+
+
+    # Unused: ART & Arduino
+    { name = "Assignment 3 - ART Collab - Plan For Success", type = "assignment", unlock_at = "CREATE_NONE_THEN_KEEP", due_at = "CREATE_NONE_THEN_KEEP", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "Assignment 3 - ART 120 Collaboration - TinkerCAD design", type = "assignment", unlock_at = "CREATE_NONE_THEN_KEEP", due_at = "CREATE_NONE_THEN_KEEP", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "Assignment 3 - ART 120 Collaboration - Finished Product", type = "assignment", unlock_at = "CREATE_NONE_THEN_KEEP", due_at = "CREATE_NONE_THEN_KEEP", lock_at = "CREATE_NONE_THEN_KEEP" },
+
+    # Unused: password testing system
+    { name = "Assignment 3 - Password Testing System - Opportunity #1", type = "assignment", unlock_at = "CREATE_NONE_THEN_KEEP", due_at = "CREATE_NONE_THEN_KEEP", lock_at = "CREATE_NONE_THEN_KEEP" },
+    { name = "Assignment 3 - Password Testing System - Opportunity #2", type = "assignment", unlock_at = "CREATE_NONE_THEN_KEEP", due_at = "CREATE_NONE_THEN_KEEP", lock_at = "CREATE_NONE_THEN_KEEP" },
 ]
+
 
 [default_post_policy]
 post_manually = true
