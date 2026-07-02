@@ -25,4 +25,3 @@ For work done on paper you can take pictures with your phone, put the images int
 
 
 *[Much thanks to Anna Batra, the original author of this exercise]{.underline}*
-

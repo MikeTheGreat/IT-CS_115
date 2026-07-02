@@ -2,7 +2,7 @@
 published: true
 ---
 
-![](../assets/course_settings/itcs_115_banner_green.svg)\
+![](../assets/course_settings/itcs_115_banner_green.svg){style="display: block; margin: 0 auto;"}
 
 Welcome to [FULL COURSE NAME](../snippets/inline/course_name_full.md), here in this [QUARTER](../snippets/inline/quarter_name.md)
 
@@ -54,10 +54,7 @@ The [text book is available for free online, here](https://greenteapress.com/wp
 
 - WARNING: The [Syllabus]($../snippets/inline/CANVAS_COURSE_REFERENCE.md$/assignments/syllabus "Syllabus") specifies that "**If you don’t participate in any of the Canvas activities, during the first two weeks of the quarter then you will be automatically dropped from the course on the 9th of the quarter, at the end of the day.**" (this is in the "Required Actions" section).  Please make sure that you participate in this course by posting to Canvas!
   
-  - 
-You might want to check the [Calendar](https://cascadia.instructure.com/calendar) or the [Assignments]($../snippets/inline/CANVAS_COURSE_REFERENCE.md$/assignments "Assignments") page to see a list of activities (such as discussion forums, or in-class exercises) that are due during these first two weeks of the quarter)
-
-
+  - You might want to check the [Calendar](https://cascadia.instructure.com/calendar) or the [Assignments]($../snippets/inline/CANVAS_COURSE_REFERENCE.md$/assignments "Assignments") page to see a list of activities (such as discussion forums, or in-class exercises) that are due during these first two weeks of the quarter)
 
 ## Sources of Help:
 
