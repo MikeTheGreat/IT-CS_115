@@ -38,7 +38,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outcome == 'success' && steps.deployment.outputs.page_url || steps.deployment_retry.outputs.page_url || steps.deployment.outputs.page_url }}
+      url: ${{ steps.resolve.outputs.page_url }}
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
@@ -47,4 +47,17 @@ jobs:
       - name: Retry deploy to GitHub Pages
         id: deployment_retry
         if: steps.deployment.outcome == 'failure'
+        continue-on-error: true
         uses: actions/deploy-pages@v4
+      - name: Resolve deployed page URL
+        id: resolve
+        if: steps.deployment.outcome == 'success' || steps.deployment_retry.outcome == 'success'
+        run: |
+          if [ "${{ steps.deployment.outcome }}" = "success" ]; then
+            echo "page_url=${{ steps.deployment.outputs.page_url }}" >> "$GITHUB_OUTPUT"
+          else
+            echo "page_url=${{ steps.deployment_retry.outputs.page_url }}" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Fail if deploy did not succeed
+        if: steps.resolve.outcome != 'success'
+        run: exit 1
