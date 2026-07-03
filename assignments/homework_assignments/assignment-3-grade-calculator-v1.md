@@ -93,76 +93,80 @@ For example, if the there are 5 in class exercises and they are worth 2, 8, 4, 1
 
 Here\'s an example how the program should run.  Your program should produce the same output, and [**it\'s critical that the program accepts the same inputs, in the same order**]{style="background-color: #fff500;"} as this example transcript shows.
 
-Note that user input is in [***bold, italics, and green highlight***]{style="background-color: #bfedd2;"}.  This provides one example of what the user might type in, but your program must work for anything the user types in.
+Note that user input is in ***bold and italics***.  This provides one example of what the user might type in, but your program must work for anything the user types in.
 
-Also note that I\'ve added in some Java-style comments to explain a couple of things.  Your program is NOT supposed to print these out. These comments are [underlined and red highlighted]{style="text-decoration: underline; background-color: #f8cac6;"}.
+Also note that I\'ve added in some Java-style comments to explain a couple of things.  Your program is NOT supposed to print these out. These comments are [underlined]{style="text-decoration: underline"}.
 
-    Welcome to the grade calculator!
-    How many points were available for Exam #1?
-    100
-    How many points did you get for Exam #1?
-    90
-    You got 90.00% of the points on this Exam
-    Your grade contributed 22.50% of your overall, quarter-long grade // This is 90/100=0.9 * 0.25 = 0.225
-    How many points were available for Exam #2?
-    150
-    How many points did you get for Exam #2?
-    128
-    You got 85.33% of the points on this Exam
-    Your grade contributed 21.33% of your overall, quarter-long grade
-    Your current overall score is 43.83% (out of 100% available in the entire course)
-    === === === // 43.83% is the previous total of 22.5% + this new number of 21.33% = 43.83
-    How many points were available for Assignment #1?
-    50
-    How many points did you get for Assignment #1?
-    45
-    You got 90.00% of the points on this assignment
-    Your grade contributed 6.75% of your overall, quarter-long grade
-    How many points were available for Assignment #2?
-    17
-    How many points did you get for Assignment #2?
-    15
-    You got 88.24% of the points on this assignment
-    Your grade contributed 6.62% of your overall, quarter-long grade
-    How many points were available for Assignment #3?
-    23
-    How many points did you get for Assignment #3?
-    22
-    You got 95.65% of the points on this assignment
-    Your grade contributed 7.17% of your overall, quarter-long grade
-    How many points were available for Assignment #4?
-    50
-    How many points did you get for Assignment #4?
-    50
-    You got 100.00% of the points on this assignment
-    Your grade contributed 7.50% of your overall, quarter-long grade
-    Your current overall score is 71.87% (out of 100% available in the entire course)
-    === === ===
-    How many points were available for ICE1? // Notice that we do something slightly different here
-    2                                        // We total up the available points and points actually gotten
-    How many points did you get for ICE1?    // and then we calculate the percentage 
-    2
-    How many points were available for ICE2?
-    8
-    How many points did you get for ICE2?
-    8
-    How many points were available for ICE3?
-    4
-    How many points did you get for ICE3?
-    4
-    How many points were available for ICE4?
-    10
-    How many points did you get for ICE4?
-    9
-    How many points were available for ICE5?
-    10
-    How many points did you get for ICE5?
-    10
-    === === === // gotten points = 2 + 8 + 4 + 9 + 10  = 33; available points = 2 + 8 + 4 + 10 + 10 = 34
-    You got 97.06% of the points on the in class exercises // 33 / 34 = 0.9705882... All numbers are rounded off to 2 digits after the decimal place
-    Your in class exercise grades contributed 19.41% of your overall, quarter-long grade
-    Your current overall score is 91.29% (out of 100% available in the entire course)
-    === === ===
+::: {style="font-family: 'Courier New', Courier, monospace; margin-left:3em;"}
+Welcome to the grade calculator!\
+How many points were available for Exam #1?\
+***100***\
+How many points did you get for Exam #1?\
+***90***\
+You got 90.00% of the points on this Exam\
+Your grade contributed 22.50% of your overall, quarter-long grade // This is 90/100=0.9 * 0.25 = 0.225\
+How many points were available for Exam #2?\
+***150***\
+How many points did you get for Exam #2?\
+***128***\
+You got 85.33% of the points on this Exam \
+Your grade contributed 21.33% of your overall, quarter-long grade \
+Your current overall score is 43.83% (out of 100% available in the entire course) \
+=== === === <u>// 43.83% is the previous total of 22.5% + this new number of 21.33% = 43.83</u> \
+How many points were available for Assignment #1? \
+***50*** \
+How many points did you get for Assignment #1? \
+***45*** \
+You got 90.00% of the points on this assignment \
+Your grade contributed 6.75% of your overall, quarter-long grade \
+How many points were available for Assignment #2? \
+***17*** \
+How many points did you get for Assignment #2? \
+***15*** \
+You got 88.24% of the points on this assignment \
+Your grade contributed 6.62% of your overall, quarter-long grade \
+How many points were available for Assignment #3? \
+***23*** \
+How many points did you get for Assignment #3? \
+***22*** \
+You got 95.65% of the points on this assignment \
+Your grade contributed 7.17% of your overall, quarter-long grade \
+How many points were available for Assignment #4? \
+***50*** \
+How many points did you get for Assignment #4? \
+***50*** \
+You got 100.00% of the points on this assignment \
+Your grade contributed 7.50% of your overall, quarter-long grade \
+Your current overall score is 71.87% (out of 100% available in the entire course) \
+=== === === \
+How many points were available for ICE1? <u>// Notice that we do something slightly different here</u> \
+***2***  <u>// We total up the available points and points actually gotten</u> \
+How many points did you get for ICE1? <u>// and then we calculate the percentage</u> \
+***2*** \
+How many points were available for ICE2? \
+***8*** \
+How many points did you get for ICE2? \
+***8*** \
+How many points were available for ICE3? \
+***4*** \
+How many points did you get for ICE3? \
+***4*** \
+How many points were available for ICE4? \
+***10*** \
+How many points did you get for ICE4? \
+***9*** \
+How many points were available for ICE5? \
+***10*** \
+How many points did you get for ICE5? \
+***10*** \
+=== === === <u>// gotten points = 2 + 8 + 4 + 9 + 10  = 33; available points = 2 + 8 + 4 + 10 + 10 = 34</u> \
+You got 97.06% of the points on the in class exercises <u>// 33 / 34 = 0.9705882... All numbers are rounded off to 2 digits after the decimal place</u> \
+Your in class exercise grades contributed 19.41% of your overall, quarter-long grade \
+Your current overall score is 91.29% (out of 100% available in the entire course) \
+=== === === \
+
+:::
+
 
 ## Recommended Approach:
 
