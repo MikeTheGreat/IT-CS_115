@@ -4,29 +4,18 @@ published: false
 ---
 [PASTE_SNIPPET_INTO_FRONTMATTER](../../snippets/frontmatter/homework_assignment.yaml)
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ##            [**            [You ARE allowed to work in groups this assignment.]{.underline}**]{style="font-size: 14pt;"} {#you-are-allowed-to-work-in-groups-this-assignment. style="text-align: center;"} |
-|                                                                                                                                                                                                              |
-| For this assignment, you should work with the other students in your group.  If you have questions, please contact the instructor.                                                                           |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+## WARNING: There is only one grading opportunity for this assignment {#there-is-only-one-grading-opportunity-for-this-assignment style="text-align: center;"}
+There is no revision / grading opportunity #2 for this assignment.                                                                       |
 
+## You ARE allowed to work in groups this assignment
+For this assignment, you should work with the other students in your group.  If you have questions, please contact the instructor. 
  
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ## There is only one grading opportunity for this assignment {#there-is-only-one-grading-opportunity-for-this-assignment style="text-align: center;"} |
-|                                                                                                                                                       |
-| There is no revision / grading opportunity #2 for this assignment.                                                                                    |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------+
-
- 
-
- 
-
-### **Purpose**
+## **Purpose**
 
 This assignment will give you an opportunity to apply what you\'ve learned so far in a new context - programming an Arduino to control LEDs.
 
-### **Learning outcomes**
+## **Learning outcomes**
 
 -   Learn: Build basic programs in an appropriate programming language
 -   Think: Develop expertise in techniques and approaches to independently fix bugs in program source code
@@ -38,7 +27,7 @@ This assignment will give you an opportunity to apply what you\'ve learned so fa
 -   Interact: Collaborate with others in complicated, dynamic and ambiguous situations
 -   Interact: Practice civility, empathy, honesty and responsibility
 
-### **Tasks**
+## **Tasks**
 
 **NOTE: You must limit yourself to the topics and techniques we have covered in this class (or a pre-req class), and within this class you can only use those topics that we were covered when this assignment was first due.**
 
@@ -55,18 +44,18 @@ In order to get full marks for this IT-CS 115 assignment your final project will
 
 NOTE: Anywhere this assignment says \"LED\" you need to connect the LED with separate wires (and a resistor!  Don\'t forget the resistor!) to the Arduino.  This does NOT include the built-in LED on the Arduino board itself, even if that LED gets incorporated into the artwork.  So when you see a requirement that says (for example) \"4 (or more) LEDs\", this means that you\'ll need to get 4 LEDs (separate from the one on the Arduino board), connect them to resistors and wires, etc.
 
-#### **Commenting Your Source Code**
+### **Commenting Your Source Code**
 
 [Be sure to include a comment at the beginning of your program that lists all the people who worked on the art project, being very clear who was in IT-CS 115 and who was in ART 120; make sure that your comment describes how many LEDs your program expects, which pin number each LED is attached to, the color of each LED, and a concise summary of what pattern your lights.]{style="color: var(--ic-brand-font-color-dark); font-family: inherit; font-size: 1rem;"}
 
 ``` {style="padding-left: 40px;"}
 ```
 
-### **Submission**
+## **Submission**
 
 Submit the screenshot of the simulated Arduino in TinkerCAD and the source code file for your program file (you must put all the source code into a separate file so the instructor can see the entire program without having to look through multiple screenshots / images)
 
-### **NOT Submitted:**
+## **NOT Submitted:**
 
 For this assignment you will NOT submit the actual, finished, working Arduino.
 
@@ -74,7 +63,6 @@ The goal is to get all the technical aspects worked out in TinkerCAD so that you
 
  
 
-### **Grading Criteria**
+## **Grading Criteria**
 
 Your work will be graded using the attached rubric.
-

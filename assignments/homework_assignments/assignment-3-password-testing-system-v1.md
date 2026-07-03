@@ -4,19 +4,15 @@ published: false
 ---
 [PASTE_SNIPPET_INTO_FRONTMATTER](../../snippets/frontmatter/homework_assignment.yaml) 
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ###            [**            [You are not allowed to work in groups this assignment.]{.underline}**]{style="font-size: 14pt;"} {#you-are-not-allowed-to-work-in-groups-this-assignment. style="text-align: center;"} |
-|                                                                                                                                                                                                                       |
-| For this assignment, you should start, finish, and do all the work on your own.  If you have questions, please contact the instructor.                                                                                |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+## You are not allowed to work in groups this assignment
+Reminder: For this assignment, you should start, finish, and do all the work on your own.  If you have questions, please contact the instructor.
 
- 
 
-#### **Purpose**
+## **Purpose**
 
 As you have seen from the exercises on methods and in Assignment 3, there are many benefits of modularity. These benefits include solving overall problem first, and work on the details later, code reusability, easier code maintainability, and finding and fixing errors become much easier. In this assignment, you will have another shot at practicing writing programs in modules. Knowing how to modularize tasks is an important skill set for any programmer.
 
-#### **Learning outcomes**
+## **Learning outcomes**
 
 -   Learn: Build basic programs in an appropriate programming language
 -   Learn: Participate in exercises (in-class and/or online) designed to develop an understanding of object oriented programming
@@ -26,7 +22,7 @@ As you have seen from the exercises on methods and in Assignment 3, there are ma
 -   Communicate: Clearly document problem solutions
 -   Communicate: Use written, spoken, and symbolic forms to convey concepts creatively
 
-#### **Tasks**
+## **Tasks**
 
 **NOTE: You must limit yourself to the topics and techniques we have covered in this class (or a pre-req class), and within this class you can only use those topics that we were covered when this assignment was first due.**
 
@@ -38,7 +34,7 @@ Write a program to implement a password testing system. Your program will use a 
 4.  It contains at least two upper case letters
 5.  It contains at least 1 lower case letter
 
-##### **Direction**
+### Directions
 
 Create five separate static methods, each to test one of the above requirements. The sixth static method will call the other five methods to test whether a String password passed to it is a valid password. If it is valid, it will display a String *Password accepted* and exit the program, else, it will keep displaying *Invalid password, try again* until the user supplies a valid password. Your main method will create a Scanner and enter a data verification loop ( a repeated while loop) which will input the password and call your ValidPassword() method (the sixth method) until the password passes all the five requirements. Sample output is shown below.
 
@@ -66,12 +62,12 @@ Password accepted
 
 ***Hint***: To test if a character is upper case, lower case or digit, use the Character methods (Character.isUpperCase(ch), Character.isLowerCase(ch) and Character.isDigit(ch)). 
 
-#### **Submission**
+## **Submission**
 
 Submit your program file through Canvas.
 
 Remember to always [Make Sure That You Submitted The Correct File(s) For Your Homework!](../../pages/course_orientation/how-to-make-sure-that-you-submitted-the-correct-file-s-for-your-homework.md "How To Make Sure That You Submitted The Correct File(s) For Your Homework")
 
-#### **Grading Criteria**
+## **Grading Criteria**
 
 This assignment is worth 50 points. Your work will be graded using the attached rubric.

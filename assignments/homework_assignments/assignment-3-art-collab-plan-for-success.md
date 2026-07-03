@@ -4,27 +4,18 @@ published: false
 ---
 [PASTE_SNIPPET_INTO_FRONTMATTER](../../snippets/frontmatter/homework_assignment.yaml)
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ##            [**            [You ARE allowed to work in groups this assignment.]{.underline}**]{style="font-size: 14pt;"} {#you-are-allowed-to-work-in-groups-this-assignment. style="text-align: center;"} |
-|                                                                                                                                                                                                              |
-| For this assignment, you should work with the other students in your group.  If you have questions, please contact the instructor.                                                                           |
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+## WARNING: There is only one grading opportunity for this assignment {#there-is-only-one-grading-opportunity-for-this-assignment style="text-align: center;"}
+There is no revision / grading opportunity #2 for this assignment.                                                                       |
 
+## You ARE allowed to work in groups this assignment
+For this assignment, you should work with the other students in your group.  If you have questions, please contact the instructor. 
  
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ## There is only one grading opportunity for this assignment {#there-is-only-one-grading-opportunity-for-this-assignment style="text-align: center;"} |
-|                                                                                                                                                       |
-| There is no revision / grading opportunity #2 for this assignment.                                                                                    |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------+
-
- 
-
-### **Purpose**
+## **Purpose**
 
 This assignment will ask you to connect with and work with students in the Art class, and to document your plans to achieve the goals set forth in "[Assignment 3 - ART 120 Collaboration - TinkerCAD design](./assignment-3-art-120-collaboration-tinkercad-design.md "Assignment 3 - ART 120 Collaboration - TinkerCAD design")"
 
-### **Learning outcomes**
+## **Learning outcomes**
 
 -   Learn: Take responsibility for learning, for example by engaging in learning, both individually and with\
     others, through reading, listening, observing and applying knowledge and skills to the creation\
@@ -41,7 +32,7 @@ This assignment will ask you to connect with and work with students in the Art c
 -   Interact: Work with peers to develop an understanding of the material, and to successfully apply that knowledge to the creation of software programs
 -   Interact: Respect individual ways of arriving at answers, expressing results and processes
 
-### **Tasks**
+## **Tasks**
 
 **NOTE: You must limit yourself to the topics and techniques we have covered in this class (or a pre-req class), and within this class you can only use those topics that we were covered when this assignment was first due.**
 
@@ -56,20 +47,14 @@ For this assignment you must do three things:
     \
 3.  You must document all your team interactions using a table like the following example: (feel free to copy and paste it into your document):
 
-  --------- ------------------------------------------------- -------------------------------------------------------------- ----------------------------------------------------------------------------------------------
-  Date      What you did to work with the other group         Who was involved in the collaboration, and what did they do?   What is the result
-  4/28/25   Texted everyone (ART students + IT-CS students)   \<list of people who texted\>                                  We all have everyone\'s numbers for texting, and we know which number goes with which person
-  5/1/25    Zoom call to talk about the project               \<list of people who attended the call\>                       Etc.
-  --------- ------------------------------------------------- -------------------------------------------------------------- ----------------------------------------------------------------------------------------------
+| Date | What you did to work with the other group | Who was involved in the collaboration, and what did they do? | What is the result |
+|------|-------------------------------------------|-------------------------------------------------------------|-------------------|
+| 4/28/25 | Texted everyone (ART students + IT-CS students) | <list of people who texted> | We all have everyone's numbers for texting, and we know which number goes with which person |
+| 5/1/25 | Zoom call to talk about the project | <list of people who attended the call> | Etc. |
 
-``` {style="padding-left: 40px;"}
-```
 
- 
-
-### **Submission**
+## **Submission**
 
 Please submit the items described above
 
 **[NOTE: ]{style="text-decoration: underline;"}**You will NOT have a second opportunity to hand this in.**  ** Time is of the essence - start early, and check in with your teammates often!
-

@@ -3,7 +3,7 @@ title: Zoom links
 published: true
 ---
 
-## Zoom OFFICE HOURS info: [](https://cascadia.zoom.us/j/9630641262){.external target="_blank"}
+## Zoom OFFICE HOURS info:
 
 [https://cascadia.zoom.us/my/ccc.mpanitz](https://cascadia.zoom.us/my/ccc.mpanitz){target="_blank"} 
 

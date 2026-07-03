@@ -3,19 +3,16 @@ title: "Assignment 4 - College Admission - Opportunity #1"
 ---
 [PASTE_SNIPPET_INTO_FRONTMATTER](../../snippets/frontmatter/homework_assignment.yaml)
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ###            [**            [You are not allowed to work in groups this assignment.]{.underline}**]{style="font-size: 14pt;"} {#you-are-not-allowed-to-work-in-groups-this-assignment. style="text-align: center;"} |
-|                                                                                                                                                                                                                       |
-| For this assignment, you should start, finish, and do all the work on your own.  If you have questions, please contact the instructor.                                                                                |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+## You are not allowed to work in groups this assignment
+Reminder: For this assignment, you should start, finish, and do all the work on your own.  If you have questions, please contact the instructor.
 
  
 
-#### **Purpose**
+## **Purpose**
 
 This assignment will give you another opportunity to practice with interactive programs, if/else statements, and methods that return values.  It is complicated to design, write, debug, and understand a program if all of the code is located in one method. To support modularization, the idea that our programs consists of independent modules, each a specialist in what it does, we break up our programs into modules. These modules are called *methods* in Java. In this assignment, you will apply all the concepts that you have learned to creating different methods, each performing independent task, in your programs and then call them.
 
-#### **Learning outcomes**
+## **Learning outcomes**
 
 -   Learn: Build basic programs in an appropriate programming language
 -   Learn: Participate in exercises (in-class and/or online) designed to develop an understanding of object oriented programming
@@ -25,7 +22,7 @@ This assignment will give you another opportunity to practice with interactive p
 -   Communicate: Clearly document problem solutions
 -   Communicate: Use written, spoken, and symbolic forms to convey concepts creatively
 
-#### **Tasks**
+## **Tasks**
 
 **NOTE: You must limit yourself to the topics and techniques we have covered in this class (or a pre-req class), and within this class you can only use those topics that we were covered when this assignment was first due.**
 
@@ -33,7 +30,7 @@ Write a program that prompts a user for information about two applicants and the
 
 Look at the sample logs of execution to see how your program is should behave. Your program must exactly reproduce the behavior demonstrated in the logs. For each applicant, you prompt for exam scores (either SAT or ACT) and overall GPA. The exam information is turned into a number between 0 and 100 and the GPA information is turned into a number between 0 and 100 and these two scores are added together to get an overall score between 0 and 200. After obtaining scores for each applicant, the program reports which one looks better or whether they look equal.
 
-##### **Information**
+### **Information**
 
 You will notice that the program asks for each applicant whether to enter SAT scores or ACT scores (SAT scores are integers that vary between 200 and 800, ACT scores are integers that vary between 1 and 36). In the case of SAT scores, the user is prompted for SAT verbal and SAT math subscores.  In the case of ACT scores, the user is prompted for English, math, reading and science subscores. 
 
@@ -51,7 +48,7 @@ You will notice that the program prompts for the GPA and the maximum GPA.  Both
 
 At this point your program has two scores that vary from 0 to 100, one from their test score and one from their GPA.  The overall score for the applicant is computed as the sum of these two numbers (exam result + gpa result).  Because each of these numbers is between 0 and 100, the overall score for an applicant ranges from 0 to 200.
 
-##### **Direction**
+### Directions
 
 You do not have to perform any error checking.  We will assume that the user enters numbers and that they are in the appropriate range. In terms of program style, you should use static methods to eliminate redundant code and to break the problem up into logical subtasks.  Your main method should be short so that a person can easily see the overall structure of the program. You are to introduce ***at least five static methods*** other than main to break this problem up into smaller subtasks and you should make sure that no single method is doing too much work.  The following are the names of your methods and the tasks they should do:
 
@@ -145,7 +142,7 @@ The two applicants seem to be equal
 
 **Note 3:** You can use [this Excel file](../../assets/assignment-related/assignment-4-college-admission/grade-calculator-checker.xlsx) to check the above examples (and to check your own numbers).  You can also upload this Excel file to Google Docs and use the Google Docs Spreadsheet, too
 
-#### **Submission**
+## **Submission**
 
 Submit your program file file through Canvas.
 
@@ -153,7 +150,7 @@ Remember to always [Make Sure That You Submitted The Correct File(s) For Your Ho
 
  
 
-#### **Grading Criteria**
+## **Grading Criteria**
 
 This assignment is worth 50 points. Your work will be graded using the attached rubric.
 
