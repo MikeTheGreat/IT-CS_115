@@ -8,10 +8,22 @@ front_page = "pages/landing-page.md"
 syllabus_course_summary = true
 
 assignment_groups = [
-    { title = "Homework Assignments", position = 1, group_weight = 30.0 },
-    { title = "Weekly Exercises", position = 2, group_weight = 20.0 },
-    { title = "Midterm Exam", position = 3, group_weight = 25.0 },
-    { title = "Final Exam", position = 4, group_weight = 25.0 },
+
+    { title = "Midterm Exam", position = 1, group_weight = 25.0 },
+    { title = "Final Exam", position = 2, group_weight = 25.0 },
+    { title = "Homework Assignment 1", position = 3, group_weight = 7.5, rules = [
+        { drop_type = "drop_lowest", drop_count = 1 },
+    ] },
+    { title = "Homework Assignment 2", position = 4, group_weight = 7.5, rules = [
+        { drop_type = "drop_lowest", drop_count = 1 },
+    ] },
+    { title = "Homework Assignment 3", position = 5, group_weight = 7.5, rules = [
+        { drop_type = "drop_lowest", drop_count = 1 },
+    ] },
+    { title = "Homework Assignment 4", position = 6, group_weight = 7.5, rules = [
+        { drop_type = "drop_lowest", drop_count = 1 },
+    ] },
+    { title = "Weekly Exercises", position = 7, group_weight = 20.0 },
 ]
 
 hide_final_grade = true

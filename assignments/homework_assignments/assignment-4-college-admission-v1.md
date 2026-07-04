@@ -1,12 +1,12 @@
 ---
 title: "Assignment 4 - College Admission - Opportunity #1"
+
+assignment_group_id: "Homework Assignment 4"
 ---
 [PASTE_SNIPPET_INTO_FRONTMATTER](../../snippets/frontmatter/homework_assignment.yaml)
 
 ## You are not allowed to work in groups this assignment
 Reminder: For this assignment, you should start, finish, and do all the work on your own.  If you have questions, please contact the instructor.
-
- 
 
 ## **Purpose**
 

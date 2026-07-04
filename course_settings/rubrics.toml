@@ -1,5 +1,4 @@
 [[rubrics]]
-
 title = "Class Notes"
 read_only = false
 reusable = true
@@ -14,13 +13,12 @@ description = "Complete"
 long_description = "- Notes follow the Cornell format: includes a title at the top, a cue column, note-taking area, and summary.<br/>\n<br/>\n- Lecture video titles are clearly written at the top of each section.<br/>\n<br/>\n- Notes reflect all (if not most) key concepts and major ideas from the video, shows active listening/reading.<br/>\n<br/>\n- Notes are handwritten and submitted correctly (either in class or uploaded as a clean, legible PDF by the deadline)"
 points = 1.0
 ratings = [
-    { id = "blank", description = "Complete", points = 2.0 },
-    { id = "blank_1", description = "Mostly Complete", points = 1.0 },
-    { id = "blank_2", description = "Incomplete", points = 0.0 },
+    { description = "Complete", points = 2.0 },
+    { description = "Mostly Complete", points = 1.0 },
+    { description = "Incomplete", points = 0.0 },
 ]
 
 [[rubrics]]
-
 title = "Worksheets"
 read_only = false
 reusable = true
@@ -35,7 +33,272 @@ description = "Complete"
 long_description = "- Worksheets are completed thoroughly and accurately.<br/>\n<br/>\n- All problems are attempted and show appropriate work.<br/>\n<br/>\n- Worksheets are submitted in the correct format."
 points = 1.0
 ratings = [
-    { id = "blank", description = "Complete", points = 2.0 },
-    { id = "blank_1", description = "Mostly Complete", points = 1.0 },
-    { id = "blank_2", description = "Incomplete", points = 0.0 },
+    { description = "Complete", points = 2.0 },
+    { description = "Mostly Complete", points = 1.0 },
+    { description = "Incomplete", points = 0.0 },
 ]
+
+[[rubrics]]
+title = "115 Assignments Rubric"
+read_only = true
+reusable = true
+public = false
+points_possible = 50.0
+hide_score_total = false
+free_form_criterion_comments = false
+rating_order = "descending"
+
+[[rubrics.criteria]]
+description = "Program Correctness"
+points = 25.0
+
+[[rubrics.criteria.ratings]]
+description = "Proficient"
+long_description = "Program results are correct and output is reasonably formatted"
+points = 25.0
+
+[[rubrics.criteria.ratings]]
+description = "Emerging"
+long_description = "A few results are incorrect and/or output mostly but not entirely formatted correctly, but fewer errors than the next category"
+points = 16.0
+
+[[rubrics.criteria.ratings]]
+description = "Emerging"
+long_description = "A few results are correct and/or output not formatted"
+points = 13.0
+
+[[rubrics.criteria.ratings]]
+description = "Needs Improvement"
+long_description = "Many results are incorrect and/or output not correctly formatted, but fewer than the next category"
+points = 7.0
+
+[[rubrics.criteria.ratings]]
+description = "Needs Improvement"
+long_description = "Most results are incorrect and/or output not formatted"
+points = 0.0
+
+[[rubrics.criteria]]
+description = "Commenting"
+points = 10.0
+
+[[rubrics.criteria.ratings]]
+description = "Proficient"
+long_description = "Program adequately commented"
+points = 10.0
+
+[[rubrics.criteria.ratings]]
+description = "Emerging"
+long_description = "Program missing a few comments"
+points = 5.0
+
+[[rubrics.criteria.ratings]]
+description = "Needs Improvement"
+long_description = "Program missing many comments"
+points = 2.0
+
+[[rubrics.criteria.ratings]]
+description = "No comments"
+long_description = "Program missing comments"
+points = 0.0
+
+[[rubrics.criteria]]
+description = "Program Efficiency"
+points = 10.0
+
+[[rubrics.criteria.ratings]]
+description = "Proficient"
+long_description = "Program well organized and efficient."
+points = 10.0
+
+[[rubrics.criteria.ratings]]
+description = "Emerging"
+long_description = "Some parts of the program are not organized"
+points = 5.0
+
+[[rubrics.criteria.ratings]]
+description = "Needs Improvement"
+long_description = "Most parts of the programs are not organized"
+points = 2.0
+
+[[rubrics.criteria]]
+description = "Code Readability"
+points = 5.0
+
+[[rubrics.criteria.ratings]]
+description = "Proficient"
+long_description = "Proper code indentation and naming convention"
+points = 5.0
+
+[[rubrics.criteria.ratings]]
+description = "Emerging"
+long_description = "Some parts of the code are not indented and/or improper naming convention"
+points = 3.0
+
+[[rubrics.criteria.ratings]]
+description = "Needs Improvement"
+long_description = "Little or no indentation in the code and/or improper naming convention"
+points = 2.0
+
+[[rubrics]]
+title = "ART Collab - Plan For Success Rubric"
+read_only = false
+reusable = true
+public = false
+points_possible = 15.0
+hide_score_total = false
+free_form_criterion_comments = false
+rating_order = "descending"
+
+[[rubrics.criteria]]
+description = "Active Participation in Group Activities"
+points = 5.0
+
+[[rubrics.criteria.ratings]]
+description = "Consistent, positive participation"
+points = 5.0
+
+[[rubrics.criteria.ratings]]
+description = "Minimal Participation"
+points = 2.0
+
+[[rubrics.criteria.ratings]]
+description = "No participation"
+long_description = "NOTE: This will result in a zero for the other areas of this rubric as well (i.e. - if you don't participate you don't get points for the rest of the group's work)"
+points = 0.0
+
+[[rubrics.criteria]]
+description = "Clear, Well Documented Plan To Meet Project Requirements"
+points = 5.0
+ratings = [
+    { description = "Clear plan is well documented", points = 5.0 },
+    { description = "Minimal Documentation", points = 2.0 },
+    { description = "No documentation", points = 0.0 },
+]
+
+[[rubrics.criteria]]
+description = "Documented Group Interactions"
+points = 5.0
+
+[[rubrics.criteria.ratings]]
+description = "Interactions are clearly documented, and interactions are sufficient to plan the project"
+points = 5.0
+
+[[rubrics.criteria.ratings]]
+description = "Minimal Documentation and/or minimal planning"
+points = 2.0
+
+[[rubrics.criteria.ratings]]
+description = "No documentation"
+points = 0.0
+
+
+[[rubrics]]
+title = "Art Collab Rubric"
+read_only = false
+reusable = true
+public = false
+points_possible = 34.0
+hide_score_total = false
+free_form_criterion_comments = false
+rating_order = "descending"
+
+[[rubrics.criteria]]
+description = "The program must run indefinitely, on the Arduino, as a working part of the art project"
+points = 4.0
+ratings = [
+    { description = "Full Marks", points = 4.0 },
+    { description = "No Marks", points = 0.0 },
+]
+
+[[rubrics.criteria]]
+description = "4 (or more) LEDs"
+points = 4.0
+ratings = [
+    { description = "4 working LEDs", points = 4.0 },
+    { description = "3 working LEDs", points = 3.0 },
+    { description = "2 working LEDs", points = 2.0 },
+    { description = "1 working LED", points = 1.0 },
+    { description = "No working LEDs", points = 0.0 },
+]
+
+[[rubrics.criteria]]
+description = "At least 2 separate circuits"
+points = 4.0
+ratings = [
+    { description = "Two complete circuits (or more)", points = 4.0 },
+    { description = "One complete circuit", points = 2.0 },
+    { description = "No Marks", points = 0.0 },
+]
+
+[[rubrics.criteria]]
+description = "Your program must light up (at least) 2 LEDs at the same time, at least once in the program"
+points = 4.0
+
+[[rubrics.criteria.ratings]]
+description = "Two LEDs are lit up at the same time"
+long_description = "Note: This will be evaluated based on the source code, not based on visual inspection (because you can make the Arduino flash two lights so quickly that they'll look like they're on at the same time, even if they're on at exactly the same time)"
+points = 4.0
+
+[[rubrics.criteria.ratings]]
+description = "No Marks"
+points = 0.0
+
+[[rubrics.criteria]]
+description = "Your program must light up an LED in a sequence of varying lengths of time"
+points = 4.0
+ratings = [
+    { description = "Full Marks", points = 4.0 },
+    { description = "No Marks", points = 0.0 },
+]
+
+[[rubrics.criteria]]
+description = "Comment at the beginning of your program that lists all the people who worked on the art project"
+long_description = "Be very clear who was in BIT 115 and who was in ART 120"
+points = 2.0
+ratings = [
+    { description = "Full list, clear who's in which class", points = 2.0 },
+    { description = "Full list", points = 1.0 },
+    { description = "No list", points = 0.0 },
+]
+
+[[rubrics.criteria]]
+description = "Comment describing the program"
+long_description = "Make sure that your comment describes how many LEDs your program expects, which pin number each LED is attached to, the color of each LED, and a concise summary of what pattern your lights"
+points = 2.0
+ratings = [
+    { description = "Full Marks", points = 2.0 },
+    { description = "No Marks", points = 0.0 },
+]
+
+[[rubrics.criteria]]
+description = "Active Participation in Group Activities"
+points = 5.0
+
+[[rubrics.criteria.ratings]]
+description = "Consistent, positive participation"
+points = 5.0
+
+[[rubrics.criteria.ratings]]
+description = "Minimal Participation"
+points = 2.0
+
+[[rubrics.criteria.ratings]]
+description = "No participation"
+long_description = "NOTE: This will result in a zero for the other areas of this rubric as well (i.e. - if you don't participate you don't get points for the rest of the group's work)"
+points = 0.0
+
+[[rubrics.criteria]]
+description = "Documented Group Interactions"
+points = 5.0
+
+[[rubrics.criteria.ratings]]
+description = "Interactions are clearly documented, and interactions are sufficient to plan the project"
+points = 5.0
+
+[[rubrics.criteria.ratings]]
+description = "Minimal Documentation"
+points = 2.0
+
+[[rubrics.criteria.ratings]]
+description = "No documentation"
+points = 0.0

@@ -1,12 +1,13 @@
 ---
 title: "Assignment 1 - User's Input - Opportunity #1"
+
+assignment_group_id: "Homework Assignment 1"
 ---
 [PASTE_SNIPPET_INTO_FRONTMATTER](../../snippets/frontmatter/homework_assignment.yaml)
 
 ## You are not allowed to work in groups this assignment
 Reminder: For this assignment, you should start, finish, and do all the work on your own.  If you have questions, please contact the instructor.
  
-
 ## **Purpose**
 
 Most applications will require input either from the user (via keyboard) or from stored data on files. We have seen how we can hard code input as literal values in the earlier exercises, however, this does not provide the program with any flexibility. Instead, we need to know how to obtain user input. To make things easy, Java provides a Scanner class, to handle common input tasks. In this assignment**, **you will use the Scanner to get input and use various forms of conversions to change data types including casts that we discussed in lecture 4.

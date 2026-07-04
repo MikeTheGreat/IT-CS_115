@@ -6,4 +6,5 @@ grading_type: points
 grader_comments_visible_to_graders: true
 grader_names_visible_to_final_grader: true
 
-assignment_group_id: "Homework Assignments"
+rubric: "115 Assignments Rubric"
+use_for_grading: true

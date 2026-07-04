@@ -18,7 +18,7 @@ This is an asynchronous online class EXCEPT for the two exams, which will be don
 
 - Final exam on Thursday August 27th 6-8pm
 
-The exams will happen on Cascadia's campus.  We don't have an assigned room yet but this page will be updated when we get a room.
+[**The exams will happen on Cascadia's campus, in Innovation Hall, in room INV-131 (aka the "Interdisciplinary lab")**]{style="background-color:yellow;"}
 
 ## All course material is available on the 'Modules' page
 
