@@ -15,7 +15,7 @@ EXCEPTION: You are allowed to write out your using a stylus/pen-thingee on a com
 WARNING: If the instructor thinks that you've typed this in (or done anything other than hand-writing it) then you'll get a zero.  Specifically watch out for the Apple Pencil feature where it recognizes your handwriting and then 'smooths it out' or 'cleans it up'.  The result looks like it was typed, even if you actually hand-wrote it.  In this case you'll get a zero because the instructor can't tell that you wrote it.  
 The safest plan is to hand-write your notes on paper, but if you're willing to accept the risk you can try using your iPad, etc.
 
-```{=comment-for-in-person-sections}
+<!-- #if in_person_class  -->
 ### 📝 Bringing Notes to Class {#bringing-notes-to-class data-start="395" end="426"}
 
 -   Bring your notes to class so I can check them off at the **start of class**.
@@ -44,7 +44,7 @@ The safest plan is to hand-write your notes on paper, but if you're willing to a
 Since this is a flipped classroom, you'll be watching lectures and reading the textbook *before* class. That means our in-class time will be mainly dedicated to solving problems and applying what you've learned---*not* reviewing the material from scratch.
 
 To help you prepare and get the most out of these active learning sessions, you're required to take notes using the **Cornell Note-Taking System** on **physical paper**. You will be able to use your physical paper notes during our in-class sessions.
-```
+<!-- #endif  -->
 
 ## Why paper? Why this system? {#why-paper-why-this-system data-start="691" end="1018"}
 

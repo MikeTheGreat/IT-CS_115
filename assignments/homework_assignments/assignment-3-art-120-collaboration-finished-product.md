@@ -1,6 +1,8 @@
 ---
 title: Assignment 3 - ART 120 Collaboration - Finished Product
 published: false
+assignment_group_id: "Unused Homework Assignments"
+
 ---
 [PASTE_SNIPPET_INTO_FRONTMATTER](../../snippets/frontmatter/homework_assignment.yaml)
 

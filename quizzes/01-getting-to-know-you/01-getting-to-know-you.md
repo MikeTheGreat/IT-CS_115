@@ -19,4 +19,3 @@ assignment_group_id: "Weekly Exercises"
 7. [Question 6](questions/question-6.md)
 8. [Question 7](questions/question-7.md)
 9. [Question 8](questions/question-8.md)
-

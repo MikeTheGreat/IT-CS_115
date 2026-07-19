@@ -14,16 +14,16 @@ This syllabus quiz will test your knowledge on policies from the syllabus. Pleas
 
 1. [Question](questions/question.md)
 2. [Question 1](questions/question-1.md)
-```{=comment-for-in-person-sections}
+<!-- #if in_person_class  -->
 1. [Question 2](questions/question-2.md)
 2. [Question 3](questions/question-3.md)
-```
+<!-- #endif  -->
 1. [Question 4](questions/question-4.md)
 2. [Question 5](questions/question-5.md)
-```{=comment-for-in-person-sections}
+<!-- #if in_person_class  -->
 1. [Question 6](questions/question-6.md)
 2. [Question 7](questions/question-7.md)
-```
+<!-- #endif  -->
 1.  [Question 8](questions/question-8.md)
 2.  [Question 8b](questions/question-8b.md)
 3.  [Question 9](questions/question-9.md)
@@ -32,11 +32,10 @@ This syllabus quiz will test your knowledge on policies from the syllabus. Pleas
 6.  [Question 12](questions/question-12.md)
 7.  [Question 13](questions/question-13.md)
 8.  [Question 14](questions/question-14.md)
-```{=comment-for-in-person-sections}
+<!-- #if in_person_class  -->
 10. [Question 15](questions/question-15.md)
-```
+<!-- #endif  -->
 11. [Question 16](questions/question-16.md)
 12. [Question 17](questions/question-17.md)
 13. [Question 18](questions/question-18.md)
 14. [Question 19](questions/question-19.md)
-

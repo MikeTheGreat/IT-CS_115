@@ -1,7 +1,7 @@
 ---
 title: "01 Computer Setup & Digital Organization"
 ---
-[PASTE_SNIPPET_INTO_FRONTMATTER](../snippets/frontmatter/worksheet_assignment.yaml)
+[PASTE_SNIPPET_INTO_FRONTMATTER](../../snippets/frontmatter/worksheet_assignment.yaml)
 
 ## Why We're Doing This {#why-were-doing-this data-start="388" end="413"}
 
@@ -13,9 +13,13 @@ The goal is to reduce stress later in the quarter by making sure your technology
 
 ------------------------------------------------------------------------
 
-## Task 1: Connect to eduroam (Campus Wi-Fi) {#task-1-connect-to-eduroam-campus-wi-fi data-start="1318" end="1364"}
+## Task 1: Connect to eduroam (Campus Wi-Fi) {#task-1-connect-to-eduroam-campus-wi-fi}
 
 If you have never connected to campus Wi-Fi before, this may take a few tries---and that's okay.
+
+**<u>Note:</u>** this is OPTIONAL for online classes (including classes that are online-with-in-person-exams).  If you're coming to campus for other reasons then it's nice
+to be able to use the campus WiFi but if you're taking the class online (or only showing up
+for exams) then you do NOT need to do this.  Just to be clear - if you're an online student there is no expectation that you'll do this (because you mostly won't be on campus)
 
 [Instructions](https://www.cascadia.edu/student-resources/computing-services/wifi.aspx){.inline_disabled target="_blank"}
 

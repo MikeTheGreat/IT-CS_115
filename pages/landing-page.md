@@ -30,7 +30,7 @@ This is an asynchronous online class EXCEPT for the two exams, which will be don
 
 - You can [find due dates in the Canvas Calendar](course_orientation/how-to-find-due-dates-using-canvas-calendar.md)
 
-```{=comment-for-in-person-sections}
+<!-- #if in_person_class  -->
 ## **First Day of Class:**
 
 This class will meet in **person on the Cascadia College campus** on the following schedule:  
@@ -41,7 +41,7 @@ This class will meet in **person on the Cascadia College campus** on the follo
 -   **In-Person Meeting Location: CC1-231 (Computer Lab with PCs)** [(building map available here)](https://www.cascadia.edu/about/places-spaces/default.aspx)
 
 - In-person class meeting: Please find the material for the first day of class in the 'Modules' section, specifically [Lecture 1 - Chapter 1 - Course Orientation and Introduction](../modules/getting-started-in-it-cs-115.md "Lecture 1 - Chapter 1 - Course Orientation and Introduction")
-```
+<!-- #endif  -->
 
 ## Textbook Information
 
@@ -65,7 +65,7 @@ The [text book is available for free online, here](https://greenteapress.com/wp
   - Additional time is available by appointment - please send me a Canvas message!
   - If you ever need to [find my physical office here are directions](course_info/office-hours.md "Office Hours")
 
-```{=comment-for-in-person-sections}
+<!-- #if in_person_class  -->
 ### Programming Tutor Schedule at the Bock Learning Center
 
 Spring 2025
@@ -88,4 +88,4 @@ _Tutoring is not available on weekends, holidays, and non-instructional days._
 **Accessing Tutoring**
 
 With the exception of Fridays, Melissa and eveie will be on campus for all their tutoring shifts this quarter. Students can either come to the Bock Learning Center (CC2-060) for in-person tutoring or drop into [our Zoom roomLinks to an external site.](https://cascadia.zoom.us/j/84548414071). Please see the [Bock Learning Center’s Canvas site](https://cascadia.instructure.com/courses/2596857) for more information about appointments and drop-in tutoring. 
-```
+<!-- #endif  -->

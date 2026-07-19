@@ -109,10 +109,6 @@ published: true
   - Specific dates, time, and location for midterm and final are posted on the front page of this course
   - Make sure that you know how to get to the exam room!
 
-```{=html}
-<!-- -->
-```
-
 - You will be given a \"cheat sheet\" as part of the exam.
   - It\'s already posted here in Canvas \
     \

@@ -1,6 +1,6 @@
 site/**
 .canvas-manifest.toml
-
+announcements/specific-to-this-quarter/**
 
 # Created by https://www.toptal.com/developers/gitignore/api/libreoffice,microsoftoffice
 # Edit at https://www.toptal.com/developers/gitignore?templates=libreoffice,microsoftoffice

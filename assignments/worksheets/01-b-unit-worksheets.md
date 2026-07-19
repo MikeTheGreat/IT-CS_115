@@ -1,6 +1,8 @@
 ---
 title: "01 Coding Exercise: Introduction and jGRASP Setup"
 original_title: "01 Lecture Worksheet 2: Introduction and jGRASP Setup"
+allowed_extensions: ["pdf", "doc", "docx", "java", "jav"]
+rubric: "01 Coding Exercise Rubric"
 ---
 [PASTE_SNIPPET_INTO_FRONTMATTER](../../snippets/frontmatter/worksheet_assignment.yaml)
 
